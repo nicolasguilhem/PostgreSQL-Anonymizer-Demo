@@ -1,0 +1,65 @@
+@startuml
+hide circle
+
+class Joueur {
+  {static} id : INTEGER
+  {abstract} adresse_id : INTEGER
+  ..
+  Nom : VARCHAR
+  Prenom : VARCHAR
+  Date de naissance : DATE
+  Email : VARCHAR
+  Tel : VARCHAR
+}
+
+class Evenement {
+  {static} id : INTEGER
+  {abstract} adresse_id : INTEGER
+  ..
+  libelle : VARCHAR
+  description : VARCHAR
+  date : DATE
+}
+
+class Participant {
+  {static} joueur_id : INTEGER
+  {static} evenement_id : INTEGER
+  ..
+  justificatifs : JSONB
+}
+
+class Sponsor {
+  {static} id : INTEGER
+  {abstract} adresse_id : INTEGER
+  ..
+  Nom : VARCHAR
+  SIREN : VARCHAR
+  Logo : BLOB
+}
+
+class Financement {
+  {static} evenement_id : INTEGER
+  {static} sponsor_id : INTEGER
+  ..
+  Montant : INTEGER
+}
+
+class Adresse {
+  {static} id : INTEGER
+  ..
+  Numéro de voie : VARCHAR
+  Libellé voie : VARCHAR
+  Code postal : VARCHAR
+  Commune : VARCHAR
+  Coordonnées GPS : VARCHAR
+}
+
+Joueur -up- Participant : inscrit
+Participant -right- Evenement : participe
+Evenement -- Financement : financé
+Sponsor -right- Financement : finance
+Joueur -- Adresse : réside
+Evenement -- Adresse : à lieu à
+Sponsor -- Adresse : siège à
+
+@enduml
