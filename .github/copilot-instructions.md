@@ -32,6 +32,7 @@ Notes:
 ## Schema & Files
 - Container sources: [container/Dockerfile](container/Dockerfile), [container/init_anon.sh](container/init_anon.sh)
 - Schema DDL: [container/sql/0-schema/01_create_adresse_table.sql](container/sql/0-schema/01_create_adresse_table.sql), [container/sql/0-schema/02_create_joueur_table.sql](container/sql/0-schema/02_create_joueur_table.sql), [container/sql/0-schema/03_create_evenement_table.sql](container/sql/0-schema/03_create_evenement_table.sql), [container/sql/0-schema/04_create_sponsor_table.sql](container/sql/0-schema/04_create_sponsor_table.sql), [container/sql/0-schema/05_create_participant_table.sql](container/sql/0-schema/05_create_participant_table.sql), [container/sql/0-schema/06_create_financement_table.sql](container/sql/0-schema/06_create_financement_table.sql)
+- Sample data: [container/sql/1-datas](container/sql/1-datas) — contains all demo sample data as CSV files. CSVs must match the database schema structure (column order/types) to be inserted as-is, and use French data.
 - Documentation: [doc/database_schema.puml](doc/database_schema.puml)
 - Top-level readme: [README.md](README.md)
 
@@ -41,6 +42,7 @@ Notes:
 - Comments: Avoid inline code comments unless asked.
 - File placement:
 	- SQL DDL and schema changes go under [container/sql/0-schema](container/sql/0-schema).
+	- Sample data CSVs go under [container/sql/1-datas](container/sql/1-datas); files must be CSV, align with the database schema for direct insertion, and contain French data.
 	- Initialization and anonymizer-related setup belong in [container/init_anon.sh](container/init_anon.sh) or equivalent init scripts.
 	- Do not restructure directories or introduce new frameworks/services.
 - Anonymizer usage:
@@ -51,6 +53,7 @@ Notes:
 ## Copilot Behavior
 - PostgreSQL 17 compatibility: Generate SQL and shell snippets compatible with PostgreSQL 17.
 - Anonymizer best practices: Favor policy-based masking and minimal exposure of sensitive data.
+- Extenstion usage: Use the PostgreSQL Anonymizer extension features effectively (use Context7 to browse extension documentation).
 
 ## Conventions
 - SQL style:
@@ -82,5 +85,6 @@ docker exec -it pg-anon-demo psql -U postgres -d postgres
 ## Links & Paths
 - Container: [container/Dockerfile](container/Dockerfile), [container/init_anon.sh](container/init_anon.sh)
 - Schema DDL: [container/sql/0-schema](container/sql/0-schema)
+- Sample data: [container/sql/1-datas](container/sql/1-datas)
 - Documentation: [doc/database_schema.puml](doc/database_schema.puml)
 - Readme: [README.md](README.md)
