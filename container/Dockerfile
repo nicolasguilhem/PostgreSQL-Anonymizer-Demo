@@ -21,7 +21,9 @@ RUN wget https://gitlab.com/api/v4/projects/7709206/packages/generic/deb/latest/
 
 # init script
 RUN mkdir -p /docker-entrypoint-initdb.d
-COPY ./init_anon.sh /docker-entrypoint-initdb.d/00_init_anon.schema
+COPY ./init_anon.sh /docker-entrypoint-initdb.d/00_init_anon.sh
 
 COPY ./sql/0-schema/ /docker-entrypoint-initdb.d/
+
+COPY ./sql/1-datas/ /docker-entrypoint-initdb.d/
 
