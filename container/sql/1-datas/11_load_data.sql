@@ -8,10 +8,20 @@
 -- Load player data
 \COPY player(id, address_id, last_name, first_name, birthdate, email, phone, created_at, updated_at) FROM '/docker-entrypoint-initdb.d/02_player.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
+-- Load event data
+\COPY event(id, address_id, name, description, date, created_at, updated_at) FROM '/docker-entrypoint-initdb.d/03_event.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
 -- Load sponsor data
 \COPY sponsor(id, address_id, name, siren, logo, created_at, updated_at) FROM '/docker-entrypoint-initdb.d/04_sponsor.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+-- Load participant data (junction table: player-event)
+\COPY participant(player_id, event_id, documents, created_at, updated_at) FROM '/docker-entrypoint-initdb.d/05_participant.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+-- Load financing data (junction table: event-sponsor)
+\COPY financing(event_id, sponsor_id, amount, created_at, updated_at) FROM '/docker-entrypoint-initdb.d/06_financing.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
 -- Update sequences to match the imported data
 SELECT setval('address_id_seq', (SELECT MAX(id) FROM address));
 SELECT setval('player_id_seq', (SELECT MAX(id) FROM player));
+SELECT setval('event_id_seq', (SELECT MAX(id) FROM event));
 SELECT setval('sponsor_id_seq', (SELECT MAX(id) FROM sponsor));
