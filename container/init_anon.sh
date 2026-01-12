@@ -12,3 +12,4 @@ psql --dbname="postgres" -c "SELECT pg_reload_conf();"
 
 echo "Creating extension inside postgres databases"
 psql --dbname="postgres" -c "CREATE EXTENSION IF NOT EXISTS anon CASCADE;"
+psql --dbname="postgres" -c "SELECT anon.init();"
