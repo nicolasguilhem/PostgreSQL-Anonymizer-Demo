@@ -8,13 +8,14 @@ CREATE TABLE IF NOT EXISTS player (
     last_name VARCHAR(100) NOT NULL,
     first_name VARCHAR(100) NOT NULL,
     birthdate DATE NOT NULL,
-    email VARCHAR(255) NOT NULL,
+    email VARCHAR(255) UNIQUE NOT NULL,
     phone VARCHAR(20),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     CONSTRAINT fk_player_address FOREIGN KEY (address_id) 
         REFERENCES address(id) ON DELETE SET NULL,
     CONSTRAINT chk_player_email CHECK (email ~* '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$')
+    CONSTRAINT chk_birthdate CHECK (date < CURRENT_DATE)
 );
 
 -- Indexes for common queries
