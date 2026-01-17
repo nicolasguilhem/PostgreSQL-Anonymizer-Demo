@@ -1,3 +1,6 @@
+SECURITY LABEL FOR anon ON COLUMN player.email
+  IS 'MASKED WITH FUNCTION anon.dummy_free_email()';
+
 SECURITY LABEL FOR anon ON COLUMN player.first_name
   IS 'MASKED WITH FUNCTION anon.dummy_first_name()';
 
