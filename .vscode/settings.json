@@ -1,0 +1,5 @@
+{
+    "vscode-postgres.defaultDatabase": "postgres",
+    "vscode-postgres.defaultConnection": "localhost",
+    "vscode-postgres.prettyPrintJSONfields": true
+}
