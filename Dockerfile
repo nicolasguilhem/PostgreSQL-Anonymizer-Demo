@@ -16,14 +16,16 @@ RUN apt-get update \
  && rm -rf /var/lib/apt/lists/*
 
 # Install anon extension
-RUN wget https://gitlab.com/api/v4/projects/7709206/packages/generic/deb/latest/postgresql_anonymizer_pg17-latest.amd64.deb \
- && dpkg -i postgresql_anonymizer_pg17-latest.amd64.deb
+RUN wget https://gitlab.com/api/v4/projects/7709206/packages/generic/deb/2.5.1/postgresql_anonymizer_pg17-2.5.1.amd64.deb \
+ && dpkg -i postgresql_anonymizer_pg17-2.5.1.amd64.deb
 
 # init script
 RUN mkdir -p /docker-entrypoint-initdb.d
-COPY ./init_anon.sh /docker-entrypoint-initdb.d/00_init_anon.sh
+COPY ./container/init_anon.sh /docker-entrypoint-initdb.d/00_init_anon.sh
 
 COPY ./sql/0-schema/ /docker-entrypoint-initdb.d/
 
 COPY ./sql/1-datas/ /docker-entrypoint-initdb.d/
 
+RUN mkdir -p /demos
+COPY ./demos /demos
