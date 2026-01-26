@@ -6,3 +6,5 @@ SECURITY LABEL FOR anon ON COLUMN player.first_name
 
 SECURITY LABEL FOR anon ON COLUMN player.last_name
   IS 'MASKED WITH FUNCTION anon.pseudo_last_name(player.last_name, $$secrément salé$$)';
+
+-- /!\ l'ajout un SALT est particulièrement consommateur
