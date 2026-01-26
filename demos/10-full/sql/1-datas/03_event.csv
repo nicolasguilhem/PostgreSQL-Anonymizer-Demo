@@ -1,0 +1,501 @@
+id,address_id,name,description,date,created_at,updated_at
+1,140230,Tournoi de Handball Scolaire de Paris,Événement sportif organisé au Tournoi de Handball Scolaire de Paris,2022-12-24 14:40:30,2022-07-11 14:40:30,2022-07-11 14:40:30
+2,5485,International Course d'Orientation,Compétition régionale de haut niveau,2023-03-18 14:40:30,2022-10-30 14:40:30,2022-11-03 14:40:30
+3,60316,Amateur Course à Pied,,2019-09-03 14:40:30,2019-06-11 14:40:30,2019-06-25 14:40:30
+4,48952,Championnat de Football Mixte de Paris,Rassemblement sportif majeur,2025-05-01 14:40:30,2024-12-15 14:40:30,2024-12-23 14:40:30
+5,166202,Championnat de Badminton - Stade de Marseille,Grande compétition annuelle de championnat de badminton - stade de marseille,2018-07-08 14:40:30,2018-05-22 14:40:30,2018-06-15 14:40:30
+6,148404,Compétition d'Athlétisme au Complexe Sportif Paris,Événement sportif d'envergure nationale,2025-05-31 14:40:30,2025-04-26 14:40:30,2025-05-15 14:40:30
+7,286195,Mixte Challenge de Natation,Grande compétition annuelle de mixte challenge de natation,2017-04-14 14:40:30,2016-10-22 14:40:30,2016-11-21 14:40:30
+8,19067,Tournoi de Basketball Vétérans de Paris,Rassemblement sportif majeur,2022-10-18 14:40:30,2022-08-20 14:40:30,2022-09-13 14:40:30
+9,92530,Compétition de Karaté - Parc des Sports de Paris,Événement sportif organisé au Compétition de Karaté - Parc des Sports de Paris,2022-06-17 14:40:30,2022-02-11 14:40:30,2022-02-23 14:40:30
+10,6535,Course de Trail Scolaire de Paris,Rassemblement sportif majeur,2023-10-27 14:40:30,2023-07-12 14:40:30,2023-08-08 14:40:30
+11,47949,National Championnat de Rugby,Événement sportif organisé au National Championnat de Rugby,2021-12-23 14:40:30,2021-08-06 14:40:30,2021-08-27 14:40:30
+12,110828,National Championnat de Pétanque,Événement sportif d'envergure nationale,2025-07-12 14:40:30,2025-02-25 14:40:30,2025-03-23 14:40:30
+13,5820,Professionnel Compétition d'Athlétisme,Tournoi ouvert à tous les niveaux,2025-04-18 14:40:30,2024-11-22 14:40:30,2024-12-14 14:40:30
+14,43607,Mixte Championnat de Pétanque,Rassemblement sportif majeur,2025-01-24 14:40:30,2024-08-10 14:40:30,2024-09-03 14:40:30
+15,142524,Championnat de Football - Piscine Olympique de Paris,,2025-07-21 14:40:30,2025-04-20 14:40:30,2025-05-16 14:40:30
+16,119509,Course de Trail Professionnel de Paris,Compétition régionale de haut niveau,2021-03-19 14:40:30,2020-09-25 14:40:30,2020-10-14 14:40:30
+17,48344,Jeunes Championnat de Pétanque,Rassemblement sportif majeur,2025-07-18 14:40:30,2025-03-27 14:40:30,2025-04-01 14:40:30
+18,129230,Tournoi de Tennis Universitaire de Paris,Grande compétition annuelle de tournoi de tennis universitaire de paris,2019-02-20 14:40:30,2018-11-12 14:40:30,2018-11-29 14:40:30
+19,214204,Compétition de Judo au Piscine Olympique Marseille,Compétition régionale de haut niveau,2024-01-29 14:40:30,2023-09-17 14:40:30,2023-10-02 14:40:30
+20,1426,Tournoi de Volleyball - Halle des Sports de Paris,Rassemblement sportif majeur,2024-11-22 14:40:30,2024-10-19 14:40:30,2024-10-21 14:40:30
+21,211828,Universitaire Championnat de Pétanque,Compétition régionale de haut niveau,2023-06-13 14:40:30,2022-12-17 14:40:30,2022-12-28 14:40:30
+22,153106,Mixte Championnat de Rugby,Rassemblement sportif majeur,2024-05-14 14:40:30,2023-11-26 14:40:30,2023-12-06 14:40:30
+23,74619,Challenge de Natation - Parc des Sports de Paris,Grande compétition annuelle de challenge de natation - parc des sports de paris,2018-08-03 14:40:30,2018-06-04 14:40:30,2018-06-27 14:40:30
+24,34098,Scolaire Tournoi de Squash,Événement sportif organisé au Scolaire Tournoi de Squash,2018-06-06 14:40:30,2018-01-04 14:40:30,2018-01-12 14:40:30
+25,358160,Amateur Rallye Automobile,Événement sportif organisé au Amateur Rallye Automobile,2025-05-04 14:40:30,2025-02-14 14:40:30,2025-02-23 14:40:30
+26,73817,Régional Compétition d'Escalade,Événement sportif d'envergure nationale,2023-12-11 14:40:30,2023-06-28 14:40:30,2023-07-02 14:40:30
+27,20340,Tournoi de Tennis au Centre Sportif Paris,Compétition régionale de haut niveau,2017-06-02 14:40:30,2016-12-29 14:40:30,2017-01-01 14:40:30
+28,21211,Marathon International Vétérans de Paris,,2020-12-10 14:40:30,2020-08-15 14:40:30,2020-08-20 14:40:30
+29,243276,Championnat de Football - Stade de Lyon,Grande compétition annuelle de championnat de football - stade de lyon,2016-09-25 14:40:30,2016-05-16 14:40:30,2016-05-31 14:40:30
+30,132401,Tournoi de Volleyball National de Paris,Tournoi ouvert à tous les niveaux,2025-02-05 14:40:30,2024-08-15 14:40:30,2024-09-14 14:40:30
+31,212689,Challenge de Boxe au Arena Marseille,Compétition régionale de haut niveau,2024-07-29 14:40:30,2024-03-15 14:40:30,2024-04-03 14:40:30
+32,161768,Tournoi d'Escrime Professionnel de Marseille,Tournoi ouvert à tous les niveaux,2020-12-19 14:40:30,2020-09-04 14:40:30,2020-10-01 14:40:30
+33,117598,Jeunes Championnat d'Aviron,Événement sportif d'envergure nationale,2024-04-20 14:40:30,2024-02-25 14:40:30,2024-03-26 14:40:30
+34,315578,Tournoi de Basketball - Parc des Sports de Nice,Événement sportif organisé au Tournoi de Basketball - Parc des Sports de Nice,2016-11-29 14:40:30,2016-09-20 14:40:30,2016-09-27 14:40:30
+35,83015,Challenge de Boxe Mixte de Paris,Grande compétition annuelle de challenge de boxe mixte de paris,2020-08-01 14:40:30,2020-03-09 14:40:30,2020-03-31 14:40:30
+36,121066,National Course d'Orientation,,2019-03-27 14:40:30,2018-12-15 14:40:30,2019-01-06 14:40:30
+37,228399,Challenge de Natation - Parc des Sports de Lyon,Événement sportif d'envergure nationale,2024-11-15 14:40:30,2024-05-19 14:40:30,2024-06-09 14:40:30
+38,135645,Compétition d'Athlétisme - Stade de Paris,,2017-09-03 14:40:30,2017-05-28 14:40:30,2017-06-23 14:40:30
+39,254964,Tournoi de Volleyball au Parc des Sports Lyon,Événement sportif d'envergure nationale,2019-06-14 14:40:30,2018-12-21 14:40:30,2019-01-19 14:40:30
+40,126617,Compétition d'Escalade au Vélodrome Paris,Compétition régionale de haut niveau,2019-05-31 14:40:30,2019-01-18 14:40:30,2019-02-17 14:40:30
+41,154517,Amateur Compétition de Triathlon,Événement sportif organisé au Amateur Compétition de Triathlon,2016-11-26 14:40:30,2016-10-17 14:40:30,2016-11-14 14:40:30
+42,10050,Course de Trail Scolaire de Paris,,2017-01-10 14:40:30,2016-10-14 14:40:30,2016-11-13 14:40:30
+43,49980,Marathon International au Piscine Olympique Paris,Rassemblement sportif majeur,2023-07-17 14:40:30,2023-04-10 14:40:30,2023-04-28 14:40:30
+44,63465,Championnat de Badminton au Parc des Sports Paris,Rassemblement sportif majeur,2018-01-14 14:40:30,2017-07-19 14:40:30,2017-08-01 14:40:30
+45,17499,National Course de Trail,Compétition régionale de haut niveau,2020-07-31 14:40:30,2020-04-07 14:40:30,2020-04-17 14:40:30
+46,51053,Course de Trail Professionnel de Paris,Compétition régionale de haut niveau,2023-10-13 14:40:30,2023-05-10 14:40:30,2023-05-19 14:40:30
+47,22151,Course à Pied National de Paris,Événement sportif d'envergure nationale,2016-12-27 14:40:30,2016-09-08 14:40:30,2016-09-16 14:40:30
+48,60962,Régional Compétition de Triathlon,Tournoi ouvert à tous les niveaux,2025-10-01 14:40:30,2025-04-16 14:40:30,2025-04-30 14:40:30
+49,139409,Régional Course d'Orientation,Tournoi ouvert à tous les niveaux,2024-06-26 14:40:30,2024-01-21 14:40:30,2024-02-10 14:40:30
+50,80010,Compétition de Karaté Mixte de Paris,Événement sportif d'envergure nationale,2017-06-21 14:40:30,2017-03-10 14:40:30,2017-03-24 14:40:30
+51,81183,Tournoi de Basketball Vétérans de Paris,Tournoi ouvert à tous les niveaux,2022-10-30 14:40:30,2022-07-31 14:40:30,2022-08-22 14:40:30
+52,45946,Course Cycliste - Parc des Sports de Paris,Compétition régionale de haut niveau,2020-07-30 14:40:30,2020-06-07 14:40:30,2020-06-14 14:40:30
+53,58550,Compétition de Karaté au Halle des Sports Paris,Compétition régionale de haut niveau,2024-01-15 14:40:30,2023-10-03 14:40:30,2023-10-19 14:40:30
+54,328450,Compétition d'Athlétisme - Arena de Nantes,,2018-09-26 14:40:30,2018-05-03 14:40:30,2018-05-20 14:40:30
+55,142118,Amateur Compétition de Triathlon,,2016-10-13 14:40:30,2016-07-05 14:40:30,2016-07-29 14:40:30
+56,133586,Tournoi de Volleyball au Palais des Sports Paris,,2016-01-12 14:40:30,2015-10-02 14:40:30,2015-10-25 14:40:30
+57,37532,Championnat de Pétanque au Gymnase Municipal Paris,Compétition régionale de haut niveau,2017-09-01 14:40:30,2017-04-10 14:40:30,2017-04-27 14:40:30
+58,161370,Rallye Automobile - Halle des Sports de Marseille,,2019-08-12 14:40:30,2019-05-26 14:40:30,2019-06-17 14:40:30
+59,35836,Course à Pied au Halle des Sports Paris,Événement sportif d'envergure nationale,2024-09-12 14:40:30,2024-04-30 14:40:30,2024-05-01 14:40:30
+60,83217,International Marathon International,,2024-11-20 14:40:30,2024-09-13 14:40:30,2024-09-28 14:40:30
+61,442812,Tournoi de Tennis de Table - Stade de Reims,Compétition régionale de haut niveau,2017-02-16 14:40:30,2016-09-27 14:40:30,2016-09-30 14:40:30
+62,140356,Championnat de Pétanque au Gymnase Municipal Paris,Événement sportif d'envergure nationale,2025-10-08 14:40:30,2025-07-31 14:40:30,2025-08-02 14:40:30
+63,122142,Universitaire Course de Trail,Événement sportif d'envergure nationale,2016-11-25 14:40:30,2016-08-03 14:40:30,2016-08-30 14:40:30
+64,150140,Compétition de Judo Régional de Paris,Grande compétition annuelle de compétition de judo régional de paris,2024-01-23 14:40:30,2023-08-22 14:40:30,2023-09-18 14:40:30
+65,239458,Tournoi de Squash National de Lyon,,2023-01-30 14:40:30,2022-10-19 14:40:30,2022-10-26 14:40:30
+66,192209,Tournoi de Basketball Vétérans de Marseille,Rassemblement sportif majeur,2023-02-09 14:40:30,2022-12-16 14:40:30,2022-12-30 14:40:30
+67,50232,Championnat de Rugby - Halle des Sports de Paris,Grande compétition annuelle de championnat de rugby - halle des sports de paris,2024-12-06 14:40:30,2024-10-23 14:40:30,2024-11-01 14:40:30
+68,7040,Course de Trail - Complexe Sportif de Paris,Événement sportif organisé au Course de Trail - Complexe Sportif de Paris,2021-12-16 14:40:30,2021-08-03 14:40:30,2021-08-21 14:40:30
+69,69181,Course de Trail - Piscine Olympique de Paris,Grande compétition annuelle de course de trail - piscine olympique de paris,2022-11-02 14:40:30,2022-06-28 14:40:30,2022-07-17 14:40:30
+70,58717,Régional Compétition d'Escalade,Événement sportif d'envergure nationale,2021-03-04 14:40:30,2020-11-29 14:40:30,2020-12-13 14:40:30
+71,46270,Amateur Course d'Orientation,Événement sportif d'envergure nationale,2022-02-17 14:40:30,2021-12-09 14:40:30,2021-12-11 14:40:30
+72,336681,Tournoi de Volleyball au Halle des Sports Nantes,Événement sportif organisé au Tournoi de Volleyball au Halle des Sports Nantes,2020-10-04 14:40:30,2020-07-02 14:40:30,2020-07-16 14:40:30
+73,268857,Scolaire Championnat de Rugby,Événement sportif organisé au Scolaire Championnat de Rugby,2018-08-30 14:40:30,2018-04-25 14:40:30,2018-05-13 14:40:30
+74,69011,Tournoi de Tennis au Stade Paris,,2025-04-23 14:40:30,2024-12-13 14:40:30,2024-12-21 14:40:30
+75,143742,Jeunes Championnat de Rugby,Événement sportif d'envergure nationale,2019-03-19 14:40:30,2018-12-21 14:40:30,2019-01-09 14:40:30
+76,86765,Course Cycliste au Centre Sportif Paris,Événement sportif organisé au Course Cycliste au Centre Sportif Paris,2024-06-22 14:40:30,2024-04-18 14:40:30,2024-05-08 14:40:30
+77,419451,National Compétition d'Athlétisme,Événement sportif d'envergure nationale,2022-07-02 14:40:30,2022-03-01 14:40:30,2022-03-24 14:40:30
+78,100629,Universitaire Compétition d'Athlétisme,,2020-08-29 14:40:30,2020-06-16 14:40:30,2020-06-22 14:40:30
+79,58090,Championnat de Pétanque Vétérans de Paris,Compétition régionale de haut niveau,2017-11-05 14:40:30,2017-08-02 14:40:30,2017-08-31 14:40:30
+80,54087,Professionnel Rallye Automobile,Événement sportif organisé au Professionnel Rallye Automobile,2016-11-05 14:40:30,2016-08-31 14:40:30,2016-09-24 14:40:30
+81,123111,Compétition d'Escalade au Parc des Sports Paris,Rassemblement sportif majeur,2024-11-13 14:40:30,2024-07-05 14:40:30,2024-07-05 14:40:30
+82,57621,Tournoi de Handball - Parc des Sports de Paris,Compétition régionale de haut niveau,2023-07-19 14:40:30,2023-04-13 14:40:30,2023-05-01 14:40:30
+83,128203,Challenge de Boxe au Parc des Sports Paris,Événement sportif d'envergure nationale,2016-04-13 14:40:30,2015-10-23 14:40:30,2015-11-02 14:40:30
+84,292383,Régional Compétition d'Athlétisme,Compétition régionale de haut niveau,2019-05-23 14:40:30,2019-01-09 14:40:30,2019-01-12 14:40:30
+85,87591,Compétition de Judo au Halle des Sports Paris,Rassemblement sportif majeur,2017-04-21 14:40:30,2017-02-26 14:40:30,2017-03-05 14:40:30
+86,48099,Tournoi d'Escrime International de Paris,,2023-07-10 14:40:30,2023-01-23 14:40:30,2023-02-05 14:40:30
+87,461149,Compétition d'Escalade - Gymnase Municipal de Le Havre,Compétition régionale de haut niveau,2021-06-28 14:40:30,2021-02-14 14:40:30,2021-03-16 14:40:30
+88,111742,National Championnat de Rugby,Événement sportif organisé au National Championnat de Rugby,2020-12-27 14:40:30,2020-09-28 14:40:30,2020-10-25 14:40:30
+89,19937,Course Cycliste - Parc des Sports de Paris,Événement sportif d'envergure nationale,2020-06-19 14:40:30,2020-03-11 14:40:30,2020-03-17 14:40:30
+90,10333,Course à Pied - Complexe Sportif de Paris,Événement sportif organisé au Course à Pied - Complexe Sportif de Paris,2023-03-05 14:40:30,2023-01-29 14:40:30,2023-01-30 14:40:30
+91,24047,Jeunes Tournoi d'Escrime,,2025-04-22 14:40:30,2024-11-02 14:40:30,2024-11-08 14:40:30
+92,137603,International Compétition d'Athlétisme,,2017-08-28 14:40:30,2017-07-29 14:40:30,2017-08-06 14:40:30
+93,202788,International Tournoi de Tennis,,2017-12-16 14:40:30,2017-10-19 14:40:30,2017-11-09 14:40:30
+94,92582,Régional Course à Pied,Événement sportif organisé au Régional Course à Pied,2024-11-04 14:40:30,2024-08-06 14:40:30,2024-08-24 14:40:30
+95,13932,Course Cycliste au Piscine Olympique Paris,,2017-06-04 14:40:30,2017-01-18 14:40:30,2017-02-03 14:40:30
+96,83692,Course Cycliste - Vélodrome de Paris,Tournoi ouvert à tous les niveaux,2020-01-23 14:40:30,2019-08-15 14:40:30,2019-09-02 14:40:30
+97,477014,Course d'Orientation au Stade Saint-Étienne,,2016-06-27 14:40:30,2016-01-16 14:40:30,2016-01-25 14:40:30
+98,116038,Course Cycliste Mixte de Paris,Événement sportif organisé au Course Cycliste Mixte de Paris,2020-07-04 14:40:30,2020-02-16 14:40:30,2020-03-08 14:40:30
+99,312227,Vétérans Compétition d'Athlétisme,Compétition régionale de haut niveau,2019-08-13 14:40:30,2019-06-07 14:40:30,2019-06-09 14:40:30
+100,254202,Course d'Orientation au Palais des Sports Lyon,Événement sportif organisé au Course d'Orientation au Palais des Sports Lyon,2022-09-13 14:40:30,2022-04-01 14:40:30,2022-04-10 14:40:30
+101,2518,Championnat de Badminton au Arena Paris,Compétition régionale de haut niveau,2024-11-23 14:40:30,2024-09-25 14:40:30,2024-10-22 14:40:30
+102,158059,Course à Pied au Halle des Sports Paris,Événement sportif d'envergure nationale,2025-12-17 14:40:30,2025-09-20 14:40:30,2025-10-03 14:40:30
+103,149503,Course à Pied - Gymnase Municipal de Paris,Événement sportif d'envergure nationale,2017-01-25 14:40:30,2016-10-07 14:40:30,2016-10-20 14:40:30
+104,117761,Championnat de Football National de Paris,Événement sportif d'envergure nationale,2021-04-27 14:40:30,2021-03-11 14:40:30,2021-03-13 14:40:30
+105,58517,Universitaire Compétition d'Athlétisme,Événement sportif d'envergure nationale,2024-04-15 14:40:30,2023-12-12 14:40:30,2024-01-06 14:40:30
+106,140567,Professionnel Course de Trail,Tournoi ouvert à tous les niveaux,2017-05-16 14:40:30,2017-01-01 14:40:30,2017-01-12 14:40:30
+107,24464,Tournoi d'Escrime - Arena de Paris,Événement sportif d'envergure nationale,2019-07-04 14:40:30,2019-03-06 14:40:30,2019-03-09 14:40:30
+108,95347,Amateur Course Cycliste,Événement sportif organisé au Amateur Course Cycliste,2021-05-30 14:40:30,2021-03-04 14:40:30,2021-03-31 14:40:30
+109,99504,Rallye Automobile Professionnel de Paris,Tournoi ouvert à tous les niveaux,2024-07-21 14:40:30,2024-04-11 14:40:30,2024-04-29 14:40:30
+110,352572,Vétérans Tournoi de Basketball,Rassemblement sportif majeur,2023-05-19 14:40:30,2023-02-10 14:40:30,2023-02-10 14:40:30
+111,268292,Compétition d'Athlétisme Scolaire de Toulouse,Grande compétition annuelle de compétition d'athlétisme scolaire de toulouse,2016-01-27 14:40:30,2015-11-12 14:40:30,2015-12-09 14:40:30
+112,57763,Tournoi de Squash au Arena Paris,Compétition régionale de haut niveau,2024-04-24 14:40:30,2024-03-18 14:40:30,2024-03-20 14:40:30
+113,109782,Championnat de Rugby Vétérans de Paris,Événement sportif organisé au Championnat de Rugby Vétérans de Paris,2021-02-02 14:40:30,2020-10-08 14:40:30,2020-10-13 14:40:30
+114,39180,Régional Challenge de Boxe,Compétition régionale de haut niveau,2017-09-30 14:40:30,2017-07-22 14:40:30,2017-08-15 14:40:30
+115,417346,Mixte Challenge de Boxe,Grande compétition annuelle de mixte challenge de boxe,2023-06-05 14:40:30,2023-01-18 14:40:30,2023-02-02 14:40:30
+116,262443,Professionnel Championnat de Rugby,Événement sportif d'envergure nationale,2024-06-20 14:40:30,2024-01-11 14:40:30,2024-01-14 14:40:30
+117,65451,Course de Trail - Stade de Paris,Compétition régionale de haut niveau,2023-08-12 14:40:30,2023-03-11 14:40:30,2023-03-27 14:40:30
+118,140125,Challenge de Natation - Arena de Paris,,2022-09-21 14:40:30,2022-08-08 14:40:30,2022-08-08 14:40:30
+119,133551,Course Cycliste au Piscine Olympique Paris,Grande compétition annuelle de course cycliste au piscine olympique paris,2018-11-13 14:40:30,2018-08-01 14:40:30,2018-08-11 14:40:30
+120,33519,Jeunes Compétition de Karaté,Événement sportif organisé au Jeunes Compétition de Karaté,2017-06-14 14:40:30,2017-02-07 14:40:30,2017-02-24 14:40:30
+121,183334,Mixte Tournoi de Tennis,Tournoi ouvert à tous les niveaux,2020-06-15 14:40:30,2020-05-06 14:40:30,2020-05-19 14:40:30
+122,118289,Compétition de Karaté Professionnel de Paris,Compétition régionale de haut niveau,2020-10-25 14:40:30,2020-05-02 14:40:30,2020-05-14 14:40:30
+123,193937,Challenge de Boxe Mixte de Marseille,Compétition régionale de haut niveau,2016-03-27 14:40:30,2015-12-05 14:40:30,2015-12-10 14:40:30
+124,116310,Compétition de Triathlon Scolaire de Paris,Compétition régionale de haut niveau,2025-06-22 14:40:30,2025-04-26 14:40:30,2025-05-03 14:40:30
+125,126,Course à Pied - Gymnase Municipal de Paris,Événement sportif organisé au Course à Pied - Gymnase Municipal de Paris,2025-10-06 14:40:30,2025-06-19 14:40:30,2025-07-12 14:40:30
+126,71090,Jeunes Tournoi de Tennis de Table,Événement sportif d'envergure nationale,2021-09-22 14:40:30,2021-07-25 14:40:30,2021-08-10 14:40:30
+127,4272,Course Cycliste - Centre Sportif de Paris,Grande compétition annuelle de course cycliste - centre sportif de paris,2025-03-09 14:40:30,2025-01-01 14:40:30,2025-01-08 14:40:30
+128,402170,Championnat d'Aviron au Complexe Sportif Bordeaux,Compétition régionale de haut niveau,2022-10-04 14:40:30,2022-07-27 14:40:30,2022-08-20 14:40:30
+129,271438,Mixte Tournoi d'Escrime,,2024-06-18 14:40:30,2023-12-27 14:40:30,2024-01-20 14:40:30
+130,230259,Course d'Orientation au Piscine Olympique Lyon,Événement sportif d'envergure nationale,2023-01-14 14:40:30,2022-09-26 14:40:30,2022-09-30 14:40:30
+131,67440,Marathon International Amateur de Paris,Rassemblement sportif majeur,2019-05-26 14:40:30,2019-02-15 14:40:30,2019-03-05 14:40:30
+132,12704,Marathon International Amateur de Paris,Événement sportif d'envergure nationale,2021-03-07 14:40:30,2020-10-13 14:40:30,2020-10-14 14:40:30
+133,270657,Challenge de Boxe au Halle des Sports Toulouse,Tournoi ouvert à tous les niveaux,2025-09-10 14:40:30,2025-07-19 14:40:30,2025-08-07 14:40:30
+134,341997,Tournoi d'Escrime au Gymnase Municipal Nantes,Tournoi ouvert à tous les niveaux,2022-03-21 14:40:30,2022-02-09 14:40:30,2022-02-23 14:40:30
+135,18785,Course Cycliste - Parc des Sports de Paris,Événement sportif organisé au Course Cycliste - Parc des Sports de Paris,2017-09-10 14:40:30,2017-07-27 14:40:30,2017-08-10 14:40:30
+136,106581,Tournoi de Tennis de Table - Palais des Sports de Paris,Rassemblement sportif majeur,2018-10-12 14:40:30,2018-05-23 14:40:30,2018-06-06 14:40:30
+137,15179,Compétition de Triathlon Amateur de Paris,,2020-03-08 14:40:30,2019-11-27 14:40:30,2019-12-09 14:40:30
+138,182079,Course à Pied au Vélodrome Marseille,Rassemblement sportif majeur,2023-01-29 14:40:30,2022-10-06 14:40:30,2022-10-08 14:40:30
+139,185521,Scolaire Championnat de Football,Rassemblement sportif majeur,2018-10-30 14:40:30,2018-08-23 14:40:30,2018-09-02 14:40:30
+140,28157,Challenge de Boxe au Centre Sportif Paris,Événement sportif d'envergure nationale,2023-05-12 14:40:30,2023-01-02 14:40:30,2023-01-06 14:40:30
+141,104232,Compétition d'Athlétisme au Parc des Sports Paris,Tournoi ouvert à tous les niveaux,2024-11-17 14:40:30,2024-07-26 14:40:30,2024-08-21 14:40:30
+142,120575,International Tournoi de Volleyball,,2020-01-23 14:40:30,2019-12-20 14:40:30,2019-12-31 14:40:30
+143,58129,International Compétition d'Athlétisme,,2021-06-15 14:40:30,2021-03-28 14:40:30,2021-04-04 14:40:30
+144,264542,Championnat d'Aviron Universitaire de Toulouse,Événement sportif d'envergure nationale,2024-11-03 14:40:30,2024-09-09 14:40:30,2024-09-25 14:40:30
+145,92797,Tournoi de Handball - Complexe Sportif de Paris,,2019-10-12 14:40:30,2019-08-10 14:40:30,2019-08-29 14:40:30
+146,46449,Régional Course d'Orientation,Événement sportif d'envergure nationale,2023-10-09 14:40:30,2023-07-29 14:40:30,2023-08-21 14:40:30
+147,118271,Challenge de Boxe - Piscine Olympique de Paris,Tournoi ouvert à tous les niveaux,2024-01-27 14:40:30,2023-10-29 14:40:30,2023-11-12 14:40:30
+148,161900,Championnat de Pétanque au Gymnase Municipal Marseille,Compétition régionale de haut niveau,2018-09-07 14:40:30,2018-05-21 14:40:30,2018-06-20 14:40:30
+149,44114,Tournoi de Handball au Vélodrome Paris,Grande compétition annuelle de tournoi de handball au vélodrome paris,2024-08-18 14:40:30,2024-05-08 14:40:30,2024-06-01 14:40:30
+150,68362,Challenge de Boxe International de Paris,Événement sportif d'envergure nationale,2025-02-28 14:40:30,2024-12-09 14:40:30,2025-01-03 14:40:30
+151,473817,Universitaire Course Cycliste,Événement sportif organisé au Universitaire Course Cycliste,2021-05-23 14:40:30,2021-01-18 14:40:30,2021-02-04 14:40:30
+152,142522,Course d'Orientation au Complexe Sportif Paris,Événement sportif organisé au Course d'Orientation au Complexe Sportif Paris,2024-07-23 14:40:30,2024-05-13 14:40:30,2024-05-21 14:40:30
+153,96078,Championnat de Rugby Régional de Paris,Compétition régionale de haut niveau,2018-06-29 14:40:30,2018-02-04 14:40:30,2018-03-04 14:40:30
+154,113508,Tournoi de Handball - Gymnase Municipal de Paris,Événement sportif organisé au Tournoi de Handball - Gymnase Municipal de Paris,2021-08-19 14:40:30,2021-04-16 14:40:30,2021-04-23 14:40:30
+155,26537,Compétition de Karaté - Complexe Sportif de Paris,Événement sportif organisé au Compétition de Karaté - Complexe Sportif de Paris,2019-07-30 14:40:30,2019-06-05 14:40:30,2019-07-01 14:40:30
+156,49278,Compétition d'Athlétisme Mixte de Paris,Événement sportif organisé au Compétition d'Athlétisme Mixte de Paris,2019-03-22 14:40:30,2018-10-23 14:40:30,2018-11-14 14:40:30
+157,74144,Compétition d'Athlétisme au Palais des Sports Paris,Événement sportif organisé au Compétition d'Athlétisme au Palais des Sports Paris,2016-03-19 14:40:30,2015-12-15 14:40:30,2015-12-21 14:40:30
+158,129020,Tournoi de Volleyball - Stade de Paris,Compétition régionale de haut niveau,2024-09-15 14:40:30,2024-06-04 14:40:30,2024-06-11 14:40:30
+159,50466,Course Cycliste Mixte de Paris,Événement sportif d'envergure nationale,2023-03-03 14:40:30,2022-10-07 14:40:30,2022-10-09 14:40:30
+160,48295,Compétition de Karaté au Centre Sportif Paris,Événement sportif organisé au Compétition de Karaté au Centre Sportif Paris,2021-10-12 14:40:30,2021-04-18 14:40:30,2021-04-25 14:40:30
+161,15570,Tournoi d'Escrime Professionnel de Paris,Tournoi ouvert à tous les niveaux,2022-11-24 14:40:30,2022-07-27 14:40:30,2022-08-03 14:40:30
+162,138405,Tournoi de Tennis de Table Universitaire de Paris,Compétition régionale de haut niveau,2020-01-18 14:40:30,2019-12-02 14:40:30,2020-01-01 14:40:30
+163,50209,Professionnel Championnat de Badminton,Événement sportif d'envergure nationale,2025-10-18 14:40:30,2025-05-21 14:40:30,2025-05-22 14:40:30
+164,409442,Championnat de Football Amateur de Lille,,2016-03-08 14:40:30,2015-11-08 14:40:30,2015-12-03 14:40:30
+165,253261,Amateur Marathon International,,2022-07-12 14:40:30,2022-03-19 14:40:30,2022-03-23 14:40:30
+166,15540,Championnat d'Aviron - Piscine Olympique de Paris,,2023-03-18 14:40:30,2023-01-03 14:40:30,2023-01-29 14:40:30
+167,52196,Mixte Championnat d'Aviron,Grande compétition annuelle de mixte championnat d'aviron,2017-07-07 14:40:30,2017-05-22 14:40:30,2017-06-13 14:40:30
+168,146711,Marathon International au Centre Sportif Paris,,2016-06-29 14:40:30,2016-04-09 14:40:30,2016-05-07 14:40:30
+169,46984,Jeunes Marathon International,,2022-02-03 14:40:30,2021-09-05 14:40:30,2021-09-13 14:40:30
+170,29017,Championnat de Badminton Amateur de Paris,,2024-10-04 14:40:30,2024-08-23 14:40:30,2024-09-19 14:40:30
+171,326950,Mixte Tournoi de Handball,Grande compétition annuelle de mixte tournoi de handball,2020-02-17 14:40:30,2019-09-29 14:40:30,2019-10-27 14:40:30
+172,125233,Tournoi de Tennis de Table au Parc des Sports Paris,Événement sportif organisé au Tournoi de Tennis de Table au Parc des Sports Paris,2021-07-26 14:40:30,2021-02-19 14:40:30,2021-03-02 14:40:30
+173,103660,Tournoi de Volleyball Amateur de Paris,Rassemblement sportif majeur,2020-10-30 14:40:30,2020-08-15 14:40:30,2020-09-01 14:40:30
+174,197880,Course d'Orientation - Halle des Sports de Marseille,Événement sportif d'envergure nationale,2023-06-01 14:40:30,2023-02-16 14:40:30,2023-02-25 14:40:30
+175,212931,Marathon International au Palais des Sports Marseille,Rassemblement sportif majeur,2020-12-24 14:40:30,2020-08-27 14:40:30,2020-09-10 14:40:30
+176,41758,Course de Trail - Gymnase Municipal de Paris,Événement sportif organisé au Course de Trail - Gymnase Municipal de Paris,2023-03-05 14:40:30,2023-01-20 14:40:30,2023-01-22 14:40:30
+177,21258,National Compétition d'Athlétisme,Rassemblement sportif majeur,2017-08-08 14:40:30,2017-03-19 14:40:30,2017-03-20 14:40:30
+178,94532,International Challenge de Boxe,Rassemblement sportif majeur,2020-04-18 14:40:30,2019-10-26 14:40:30,2019-10-27 14:40:30
+179,92894,Compétition d'Athlétisme au Gymnase Municipal Paris,Rassemblement sportif majeur,2020-12-24 14:40:30,2020-11-05 14:40:30,2020-11-23 14:40:30
+180,102421,Course Cycliste au Complexe Sportif Paris,Tournoi ouvert à tous les niveaux,2023-04-15 14:40:30,2023-01-04 14:40:30,2023-01-11 14:40:30
+181,161337,Compétition d'Escalade - Piscine Olympique de Marseille,Tournoi ouvert à tous les niveaux,2020-05-05 14:40:30,2019-11-14 14:40:30,2019-11-17 14:40:30
+182,147673,Course Cycliste au Parc des Sports Paris,Grande compétition annuelle de course cycliste au parc des sports paris,2019-03-16 14:40:30,2018-10-12 14:40:30,2018-10-18 14:40:30
+183,425186,Course de Trail Amateur de Rennes,Tournoi ouvert à tous les niveaux,2024-01-01 14:40:30,2023-08-11 14:40:30,2023-08-13 14:40:30
+184,21584,International Tournoi de Volleyball,Tournoi ouvert à tous les niveaux,2022-01-30 14:40:30,2021-10-18 14:40:30,2021-11-15 14:40:30
+185,88297,Compétition d'Athlétisme Jeunes de Paris,Rassemblement sportif majeur,2018-07-08 14:40:30,2018-05-08 14:40:30,2018-05-14 14:40:30
+186,74411,Course d'Orientation Universitaire de Paris,Événement sportif organisé au Course d'Orientation Universitaire de Paris,2022-03-20 14:40:30,2021-09-25 14:40:30,2021-10-06 14:40:30
+187,254936,Tournoi de Squash au Vélodrome Lyon,,2019-06-21 14:40:30,2019-02-10 14:40:30,2019-03-04 14:40:30
+188,54532,Compétition d'Athlétisme au Parc des Sports Paris,Compétition régionale de haut niveau,2020-08-05 14:40:30,2020-02-10 14:40:30,2020-02-12 14:40:30
+189,41714,Compétition d'Athlétisme - Palais des Sports de Paris,,2023-08-18 14:40:30,2023-03-09 14:40:30,2023-03-20 14:40:30
+190,98384,Marathon International - Vélodrome de Paris,Rassemblement sportif majeur,2017-06-13 14:40:30,2017-01-24 14:40:30,2017-02-09 14:40:30
+191,92521,Jeunes Compétition de Karaté,,2017-11-06 14:40:30,2017-08-27 14:40:30,2017-09-06 14:40:30
+192,61087,Championnat de Badminton - Centre Sportif de Paris,Événement sportif d'envergure nationale,2016-11-20 14:40:30,2016-08-18 14:40:30,2016-08-24 14:40:30
+193,54784,Tournoi de Tennis de Table - Palais des Sports de Paris,Grande compétition annuelle de tournoi de tennis de table - palais des sports de paris,2019-05-26 14:40:30,2018-12-11 14:40:30,2018-12-13 14:40:30
+194,394495,Tournoi d'Escrime Régional de Bordeaux,Événement sportif organisé au Tournoi d'Escrime Régional de Bordeaux,2023-05-23 14:40:30,2023-01-27 14:40:30,2023-02-22 14:40:30
+195,97181,Championnat de Badminton au Palais des Sports Paris,Tournoi ouvert à tous les niveaux,2023-03-13 14:40:30,2022-09-17 14:40:30,2022-09-25 14:40:30
+196,254670,Universitaire Championnat de Badminton,Compétition régionale de haut niveau,2023-03-03 14:40:30,2023-01-25 14:40:30,2023-02-09 14:40:30
+197,120690,Course d'Orientation - Stade de Paris,Compétition régionale de haut niveau,2018-10-01 14:40:30,2018-05-21 14:40:30,2018-05-30 14:40:30
+198,11095,Challenge de Natation - Palais des Sports de Paris,Rassemblement sportif majeur,2020-08-30 14:40:30,2020-03-30 14:40:30,2020-04-13 14:40:30
+199,485273,Professionnel Championnat de Rugby,Tournoi ouvert à tous les niveaux,2025-08-30 14:40:30,2025-05-11 14:40:30,2025-06-03 14:40:30
+200,233846,Mixte Rallye Automobile,Compétition régionale de haut niveau,2022-04-20 14:40:30,2022-02-22 14:40:30,2022-03-04 14:40:30
+201,308802,Marathon International au Halle des Sports Nice,Grande compétition annuelle de marathon international au halle des sports nice,2018-10-13 14:40:30,2018-08-08 14:40:30,2018-08-11 14:40:30
+202,398576,Course à Pied - Gymnase Municipal de Bordeaux,,2025-09-15 14:40:30,2025-07-07 14:40:30,2025-08-02 14:40:30
+203,244264,Course d'Orientation au Centre Sportif Lyon,Événement sportif organisé au Course d'Orientation au Centre Sportif Lyon,2017-10-15 14:40:30,2017-05-11 14:40:30,2017-05-27 14:40:30
+204,36473,Jeunes Course d'Orientation,Événement sportif organisé au Jeunes Course d'Orientation,2017-01-04 14:40:30,2016-08-27 14:40:30,2016-09-12 14:40:30
+205,106504,Challenge de Boxe Mixte de Paris,,2016-07-27 14:40:30,2016-04-16 14:40:30,2016-05-01 14:40:30
+206,46876,Amateur Compétition d'Escalade,Événement sportif organisé au Amateur Compétition d'Escalade,2017-03-17 14:40:30,2016-10-28 14:40:30,2016-11-01 14:40:30
+207,87951,Jeunes Compétition de Judo,Événement sportif organisé au Jeunes Compétition de Judo,2020-06-29 14:40:30,2020-05-17 14:40:30,2020-06-04 14:40:30
+208,12860,Championnat d'Aviron Universitaire de Paris,Grande compétition annuelle de championnat d'aviron universitaire de paris,2020-05-02 14:40:30,2019-11-25 14:40:30,2019-12-09 14:40:30
+209,83111,Course à Pied - Gymnase Municipal de Paris,Grande compétition annuelle de course à pied - gymnase municipal de paris,2017-02-01 14:40:30,2016-09-24 14:40:30,2016-10-05 14:40:30
+210,428948,Tournoi de Tennis de Table Régional de Rennes,Grande compétition annuelle de tournoi de tennis de table régional de rennes,2022-10-04 14:40:30,2022-04-27 14:40:30,2022-05-09 14:40:30
+211,58161,Championnat de Pétanque - Piscine Olympique de Paris,Tournoi ouvert à tous les niveaux,2024-01-02 14:40:30,2023-09-09 14:40:30,2023-10-04 14:40:30
+212,197519,Challenge de Boxe au Complexe Sportif Marseille,Tournoi ouvert à tous les niveaux,2021-10-13 14:40:30,2021-08-09 14:40:30,2021-08-19 14:40:30
+213,99786,Course à Pied au Vélodrome Paris,Événement sportif d'envergure nationale,2024-04-17 14:40:30,2024-01-02 14:40:30,2024-01-20 14:40:30
+214,92768,Tournoi de Tennis Amateur de Paris,Compétition régionale de haut niveau,2022-04-25 14:40:30,2022-01-09 14:40:30,2022-01-24 14:40:30
+215,358332,Tournoi de Squash au Palais des Sports Strasbourg,Rassemblement sportif majeur,2022-07-19 14:40:30,2022-04-02 14:40:30,2022-04-27 14:40:30
+216,474716,Rallye Automobile au Palais des Sports Saint-Étienne,Grande compétition annuelle de rallye automobile au palais des sports saint-étienne,2023-05-10 14:40:30,2022-11-13 14:40:30,2022-12-01 14:40:30
+217,121883,Course de Trail Jeunes de Paris,Grande compétition annuelle de course de trail jeunes de paris,2021-11-18 14:40:30,2021-07-14 14:40:30,2021-07-18 14:40:30
+218,157551,Compétition de Triathlon - Halle des Sports de Paris,Compétition régionale de haut niveau,2016-03-19 14:40:30,2015-10-29 14:40:30,2015-11-08 14:40:30
+219,33948,Tournoi de Squash - Complexe Sportif de Paris,Tournoi ouvert à tous les niveaux,2021-08-18 14:40:30,2021-03-21 14:40:30,2021-04-17 14:40:30
+220,65070,Tournoi de Handball au Complexe Sportif Paris,Tournoi ouvert à tous les niveaux,2019-08-25 14:40:30,2019-03-26 14:40:30,2019-04-11 14:40:30
+221,308330,Course de Trail au Palais des Sports Nice,Grande compétition annuelle de course de trail au palais des sports nice,2019-11-04 14:40:30,2019-05-19 14:40:30,2019-05-30 14:40:30
+222,127018,Jeunes Tournoi de Volleyball,Événement sportif d'envergure nationale,2018-10-07 14:40:30,2018-06-28 14:40:30,2018-07-15 14:40:30
+223,118907,Amateur Championnat de Pétanque,Rassemblement sportif majeur,2018-04-30 14:40:30,2017-11-26 14:40:30,2017-12-06 14:40:30
+224,173771,Professionnel Compétition de Judo,,2017-05-15 14:40:30,2016-11-20 14:40:30,2016-12-11 14:40:30
+225,12537,Vétérans Marathon International,Compétition régionale de haut niveau,2025-01-09 14:40:30,2024-11-03 14:40:30,2024-11-12 14:40:30
+226,128114,Jeunes Championnat de Pétanque,Tournoi ouvert à tous les niveaux,2023-05-11 14:40:30,2023-02-05 14:40:30,2023-02-28 14:40:30
+227,110278,Course Cycliste - Palais des Sports de Paris,Grande compétition annuelle de course cycliste - palais des sports de paris,2023-10-23 14:40:30,2023-07-16 14:40:30,2023-07-20 14:40:30
+228,247574,Championnat de Badminton Jeunes de Lyon,Compétition régionale de haut niveau,2016-07-27 14:40:30,2016-02-13 14:40:30,2016-02-20 14:40:30
+229,34526,Course de Trail - Stade de Paris,Compétition régionale de haut niveau,2019-09-15 14:40:30,2019-04-18 14:40:30,2019-04-21 14:40:30
+230,364025,Jeunes Championnat de Badminton,Rassemblement sportif majeur,2023-04-29 14:40:30,2022-11-29 14:40:30,2022-12-14 14:40:30
+231,17569,Championnat d'Aviron - Palais des Sports de Paris,Tournoi ouvert à tous les niveaux,2023-03-31 14:40:30,2023-02-14 14:40:30,2023-03-15 14:40:30
+232,40753,Tournoi de Basketball Professionnel de Paris,,2024-04-14 14:40:30,2024-03-06 14:40:30,2024-04-04 14:40:30
+233,130495,Tournoi de Squash Vétérans de Paris,Rassemblement sportif majeur,2020-06-15 14:40:30,2020-01-11 14:40:30,2020-01-16 14:40:30
+234,148078,Course à Pied au Piscine Olympique Paris,Grande compétition annuelle de course à pied au piscine olympique paris,2022-05-16 14:40:30,2022-03-20 14:40:30,2022-04-18 14:40:30
+235,51582,Jeunes Compétition d'Escalade,Grande compétition annuelle de jeunes compétition d'escalade,2025-07-18 14:40:30,2025-02-09 14:40:30,2025-02-23 14:40:30
+236,26292,International Compétition d'Escalade,,2024-03-14 14:40:30,2023-10-19 14:40:30,2023-11-08 14:40:30
+237,284120,Championnat d'Aviron au Complexe Sportif Toulouse,,2019-04-24 14:40:30,2018-10-31 14:40:30,2018-11-21 14:40:30
+238,53997,Championnat de Football - Parc des Sports de Paris,Grande compétition annuelle de championnat de football - parc des sports de paris,2020-10-18 14:40:30,2020-05-10 14:40:30,2020-05-20 14:40:30
+239,130382,Rallye Automobile au Centre Sportif Paris,Grande compétition annuelle de rallye automobile au centre sportif paris,2021-05-10 14:40:30,2021-01-18 14:40:30,2021-02-16 14:40:30
+240,135834,Course à Pied Vétérans de Paris,Rassemblement sportif majeur,2021-01-04 14:40:30,2020-09-28 14:40:30,2020-10-28 14:40:30
+241,91939,Rallye Automobile au Parc des Sports Paris,Rassemblement sportif majeur,2023-05-02 14:40:30,2022-12-31 14:40:30,2023-01-22 14:40:30
+242,128003,Vétérans Tournoi de Tennis de Table,Rassemblement sportif majeur,2017-10-17 14:40:30,2017-06-06 14:40:30,2017-06-27 14:40:30
+243,114649,Compétition d'Athlétisme au Complexe Sportif Paris,Événement sportif d'envergure nationale,2022-11-23 14:40:30,2022-08-29 14:40:30,2022-09-05 14:40:30
+244,325887,Compétition de Karaté - Piscine Olympique de Nantes,,2022-10-18 14:40:30,2022-06-15 14:40:30,2022-06-28 14:40:30
+245,44796,Course d'Orientation Universitaire de Paris,Tournoi ouvert à tous les niveaux,2018-10-11 14:40:30,2018-08-22 14:40:30,2018-09-07 14:40:30
+246,157065,Compétition de Judo - Arena de Paris,Grande compétition annuelle de compétition de judo - arena de paris,2017-04-05 14:40:30,2017-02-19 14:40:30,2017-03-17 14:40:30
+247,52346,Course Cycliste au Palais des Sports Paris,Événement sportif organisé au Course Cycliste au Palais des Sports Paris,2019-09-06 14:40:30,2019-03-27 14:40:30,2019-04-10 14:40:30
+248,86798,Marathon International au Complexe Sportif Paris,Compétition régionale de haut niveau,2021-09-22 14:40:30,2021-05-01 14:40:30,2021-05-26 14:40:30
+249,147306,Course d'Orientation au Stade Paris,Rassemblement sportif majeur,2022-04-29 14:40:30,2022-03-16 14:40:30,2022-04-02 14:40:30
+250,65791,Challenge de Natation Scolaire de Paris,Compétition régionale de haut niveau,2025-02-27 14:40:30,2025-01-28 14:40:30,2025-02-20 14:40:30
+251,69340,Marathon International National de Paris,Rassemblement sportif majeur,2019-11-13 14:40:30,2019-09-28 14:40:30,2019-10-15 14:40:30
+252,176330,Compétition d'Athlétisme au Gymnase Municipal Marseille,Compétition régionale de haut niveau,2020-08-02 14:40:30,2020-05-18 14:40:30,2020-06-11 14:40:30
+253,15910,Universitaire Championnat de Football,Événement sportif organisé au Universitaire Championnat de Football,2025-10-02 14:40:30,2025-05-29 14:40:30,2025-06-10 14:40:30
+254,100505,Tournoi de Tennis de Table International de Paris,,2018-01-02 14:40:30,2017-07-19 14:40:30,2017-07-31 14:40:30
+255,479825,Course de Trail au Halle des Sports Toulon,,2016-04-04 14:40:30,2015-12-20 14:40:30,2016-01-03 14:40:30
+256,476932,Championnat de Rugby - Centre Sportif de Saint-Étienne,Événement sportif d'envergure nationale,2018-07-30 14:40:30,2018-04-28 14:40:30,2018-05-12 14:40:30
+257,16067,Course de Trail Professionnel de Paris,Grande compétition annuelle de course de trail professionnel de paris,2024-08-02 14:40:30,2024-06-05 14:40:30,2024-06-06 14:40:30
+258,46746,Challenge de Boxe Régional de Paris,Grande compétition annuelle de challenge de boxe régional de paris,2018-04-25 14:40:30,2018-03-09 14:40:30,2018-03-12 14:40:30
+259,58160,Course d'Orientation - Vélodrome de Paris,,2024-04-22 14:40:30,2024-03-12 14:40:30,2024-03-24 14:40:30
+260,323983,Vétérans Tournoi de Tennis de Table,Tournoi ouvert à tous les niveaux,2025-09-08 14:40:30,2025-07-26 14:40:30,2025-07-30 14:40:30
+261,273787,Tournoi de Volleyball - Vélodrome de Toulouse,Compétition régionale de haut niveau,2022-09-16 14:40:30,2022-05-27 14:40:30,2022-06-03 14:40:30
+262,272039,Compétition de Judo au Complexe Sportif Toulouse,Tournoi ouvert à tous les niveaux,2019-05-16 14:40:30,2019-02-05 14:40:30,2019-02-06 14:40:30
+263,81040,Professionnel Championnat de Badminton,Événement sportif d'envergure nationale,2021-07-24 14:40:30,2021-06-12 14:40:30,2021-06-23 14:40:30
+264,34595,Tournoi de Volleyball au Complexe Sportif Paris,Grande compétition annuelle de tournoi de volleyball au complexe sportif paris,2020-09-02 14:40:30,2020-04-21 14:40:30,2020-04-25 14:40:30
+265,231969,Compétition de Karaté International de Lyon,Tournoi ouvert à tous les niveaux,2025-07-11 14:40:30,2025-04-15 14:40:30,2025-04-24 14:40:30
+266,154290,Tournoi de Tennis de Table - Halle des Sports de Paris,Rassemblement sportif majeur,2020-08-18 14:40:30,2020-04-04 14:40:30,2020-04-21 14:40:30
+267,134145,Championnat de Football Mixte de Paris,Tournoi ouvert à tous les niveaux,2018-04-13 14:40:30,2017-12-20 14:40:30,2018-01-09 14:40:30
+268,435278,Compétition d'Escalade Professionnel de Rennes,,2024-02-16 14:40:30,2023-11-30 14:40:30,2023-12-01 14:40:30
+269,143421,Championnat d'Aviron - Vélodrome de Paris,Compétition régionale de haut niveau,2016-10-26 14:40:30,2016-08-09 14:40:30,2016-09-03 14:40:30
+270,1716,Tournoi de Tennis Jeunes de Paris,Événement sportif d'envergure nationale,2018-05-06 14:40:30,2018-01-11 14:40:30,2018-01-20 14:40:30
+271,219252,Rallye Automobile au Arena Marseille,Grande compétition annuelle de rallye automobile au arena marseille,2024-06-17 14:40:30,2024-01-17 14:40:30,2024-02-15 14:40:30
+272,65656,Professionnel Tournoi de Volleyball,Rassemblement sportif majeur,2022-03-12 14:40:30,2021-11-20 14:40:30,2021-12-14 14:40:30
+273,145485,Championnat de Pétanque au Parc des Sports Paris,,2018-12-08 14:40:30,2018-08-08 14:40:30,2018-08-24 14:40:30
+274,331444,Challenge de Natation au Gymnase Municipal Nantes,Événement sportif organisé au Challenge de Natation au Gymnase Municipal Nantes,2025-06-02 14:40:30,2025-02-11 14:40:30,2025-03-12 14:40:30
+275,29451,Compétition d'Athlétisme au Centre Sportif Paris,Rassemblement sportif majeur,2022-04-24 14:40:30,2022-01-28 14:40:30,2022-02-20 14:40:30
+276,25315,Rallye Automobile - Palais des Sports de Paris,Compétition régionale de haut niveau,2017-09-17 14:40:30,2017-06-29 14:40:30,2017-07-09 14:40:30
+277,23474,Championnat d'Aviron au Piscine Olympique Paris,Grande compétition annuelle de championnat d'aviron au piscine olympique paris,2022-03-06 14:40:30,2021-11-10 14:40:30,2021-11-18 14:40:30
+278,121325,Compétition d'Athlétisme - Piscine Olympique de Paris,Tournoi ouvert à tous les niveaux,2024-03-21 14:40:30,2023-11-22 14:40:30,2023-11-27 14:40:30
+279,59728,Marathon International National de Paris,Compétition régionale de haut niveau,2023-03-14 14:40:30,2023-01-28 14:40:30,2023-02-13 14:40:30
+280,132643,Compétition de Karaté - Stade de Paris,Tournoi ouvert à tous les niveaux,2017-07-18 14:40:30,2017-04-20 14:40:30,2017-04-22 14:40:30
+281,157377,Challenge de Boxe au Piscine Olympique Paris,Événement sportif organisé au Challenge de Boxe au Piscine Olympique Paris,2021-02-11 14:40:30,2020-10-09 14:40:30,2020-10-10 14:40:30
+282,44650,Régional Compétition de Triathlon,Tournoi ouvert à tous les niveaux,2016-01-29 14:40:30,2015-08-16 14:40:30,2015-09-02 14:40:30
+283,139092,Compétition de Karaté Professionnel de Paris,Événement sportif organisé au Compétition de Karaté Professionnel de Paris,2019-03-21 14:40:30,2019-02-15 14:40:30,2019-03-03 14:40:30
+284,57894,Scolaire Challenge de Natation,,2021-11-18 14:40:30,2021-09-11 14:40:30,2021-09-18 14:40:30
+285,107138,Tournoi de Handball au Gymnase Municipal Paris,Compétition régionale de haut niveau,2019-12-23 14:40:30,2019-09-16 14:40:30,2019-10-11 14:40:30
+286,409351,Rallye Automobile Vétérans de Lille,Événement sportif organisé au Rallye Automobile Vétérans de Lille,2022-05-04 14:40:30,2022-02-01 14:40:30,2022-02-23 14:40:30
+287,242132,Compétition de Judo Mixte de Lyon,Événement sportif d'envergure nationale,2020-07-19 14:40:30,2020-03-14 14:40:30,2020-03-26 14:40:30
+288,20242,Compétition de Triathlon Amateur de Paris,Tournoi ouvert à tous les niveaux,2017-12-03 14:40:30,2017-10-13 14:40:30,2017-10-28 14:40:30
+289,92893,Scolaire Compétition de Karaté,Événement sportif organisé au Scolaire Compétition de Karaté,2016-06-24 14:40:30,2016-03-28 14:40:30,2016-04-03 14:40:30
+290,60678,Compétition de Judo - Stade de Paris,,2016-11-01 14:40:30,2016-07-23 14:40:30,2016-08-20 14:40:30
+291,778,Challenge de Natation au Complexe Sportif Paris,Événement sportif organisé au Challenge de Natation au Complexe Sportif Paris,2019-07-13 14:40:30,2019-06-09 14:40:30,2019-07-09 14:40:30
+292,188998,Scolaire Rallye Automobile,Compétition régionale de haut niveau,2019-05-11 14:40:30,2019-03-01 14:40:30,2019-03-19 14:40:30
+293,139723,National Compétition de Karaté,Événement sportif organisé au National Compétition de Karaté,2024-06-22 14:40:30,2024-04-18 14:40:30,2024-05-13 14:40:30
+294,57449,Championnat de Football au Palais des Sports Paris,,2017-02-05 14:40:30,2016-09-17 14:40:30,2016-09-24 14:40:30
+295,169334,Compétition d'Escalade - Piscine Olympique de Marseille,Rassemblement sportif majeur,2019-08-30 14:40:30,2019-07-24 14:40:30,2019-08-13 14:40:30
+296,120987,Tournoi de Basketball Scolaire de Paris,,2022-03-16 14:40:30,2021-11-10 14:40:30,2021-11-23 14:40:30
+297,93794,National Rallye Automobile,Grande compétition annuelle de national rallye automobile,2022-12-09 14:40:30,2022-08-26 14:40:30,2022-09-20 14:40:30
+298,2121,Tournoi de Handball Amateur de Paris,Événement sportif organisé au Tournoi de Handball Amateur de Paris,2020-04-06 14:40:30,2020-01-28 14:40:30,2020-02-20 14:40:30
+299,16502,Championnat de Rugby - Parc des Sports de Paris,Événement sportif organisé au Championnat de Rugby - Parc des Sports de Paris,2016-01-23 14:40:30,2015-10-07 14:40:30,2015-10-21 14:40:30
+300,276246,Compétition de Judo au Vélodrome Toulouse,Événement sportif organisé au Compétition de Judo au Vélodrome Toulouse,2018-02-07 14:40:30,2017-09-20 14:40:30,2017-10-04 14:40:30
+301,407807,National Compétition de Judo,,2016-04-18 14:40:30,2016-02-26 14:40:30,2016-03-08 14:40:30
+302,119651,Compétition de Triathlon - Parc des Sports de Paris,Tournoi ouvert à tous les niveaux,2020-04-27 14:40:30,2020-03-25 14:40:30,2020-04-03 14:40:30
+303,232668,International Tournoi de Handball,Rassemblement sportif majeur,2021-11-05 14:40:30,2021-08-24 14:40:30,2021-09-14 14:40:30
+304,127748,International Championnat de Football,Compétition régionale de haut niveau,2019-01-05 14:40:30,2018-08-02 14:40:30,2018-08-06 14:40:30
+305,32478,Championnat de Football - Centre Sportif de Paris,Événement sportif d'envergure nationale,2019-05-13 14:40:30,2018-12-11 14:40:30,2019-01-05 14:40:30
+306,27950,Challenge de Boxe Jeunes de Paris,Grande compétition annuelle de challenge de boxe jeunes de paris,2023-01-05 14:40:30,2022-08-02 14:40:30,2022-08-21 14:40:30
+307,67603,Tournoi de Handball au Palais des Sports Paris,,2019-06-02 14:40:30,2019-05-02 14:40:30,2019-06-01 14:40:30
+308,293653,Course à Pied - Palais des Sports de Toulouse,Rassemblement sportif majeur,2025-09-02 14:40:30,2025-05-11 14:40:30,2025-05-25 14:40:30
+309,205448,International Course à Pied,Rassemblement sportif majeur,2019-08-07 14:40:30,2019-05-18 14:40:30,2019-06-02 14:40:30
+310,254138,Tournoi d'Escrime au Gymnase Municipal Lyon,Rassemblement sportif majeur,2024-03-30 14:40:30,2023-10-27 14:40:30,2023-11-26 14:40:30
+311,293591,Course Cycliste - Arena de Toulouse,Événement sportif d'envergure nationale,2025-02-27 14:40:30,2024-10-20 14:40:30,2024-10-31 14:40:30
+312,46071,Tournoi de Squash au Arena Paris,,2024-08-11 14:40:30,2024-02-23 14:40:30,2024-02-23 14:40:30
+313,54724,Mixte Compétition de Triathlon,Grande compétition annuelle de mixte compétition de triathlon,2019-04-09 14:40:30,2019-02-21 14:40:30,2019-03-19 14:40:30
+314,22544,Compétition de Triathlon au Parc des Sports Paris,Tournoi ouvert à tous les niveaux,2018-11-01 14:40:30,2018-08-24 14:40:30,2018-09-15 14:40:30
+315,194917,Compétition de Judo Universitaire de Marseille,,2021-05-17 14:40:30,2020-11-19 14:40:30,2020-12-01 14:40:30
+316,277373,Championnat de Badminton - Parc des Sports de Toulouse,Événement sportif d'envergure nationale,2020-01-13 14:40:30,2019-07-30 14:40:30,2019-08-18 14:40:30
+317,89121,Championnat de Badminton au Stade Paris,,2023-06-16 14:40:30,2023-02-16 14:40:30,2023-02-21 14:40:30
+318,136115,Tournoi de Tennis - Centre Sportif de Paris,Tournoi ouvert à tous les niveaux,2019-09-21 14:40:30,2019-05-04 14:40:30,2019-05-07 14:40:30
+319,33895,Tournoi d'Escrime au Arena Paris,Rassemblement sportif majeur,2024-05-18 14:40:30,2023-12-08 14:40:30,2023-12-25 14:40:30
+320,403200,Course de Trail - Vélodrome de Bordeaux,Rassemblement sportif majeur,2020-05-22 14:40:30,2019-12-26 14:40:30,2020-01-19 14:40:30
+321,257348,Tournoi de Volleyball Professionnel de Lyon,,2016-04-11 14:40:30,2015-11-10 14:40:30,2015-11-13 14:40:30
+322,320661,Tournoi de Volleyball - Piscine Olympique de Nice,Tournoi ouvert à tous les niveaux,2024-03-10 14:40:30,2024-01-04 14:40:30,2024-01-15 14:40:30
+323,215086,Mixte Course Cycliste,Événement sportif organisé au Mixte Course Cycliste,2021-06-02 14:40:30,2021-02-03 14:40:30,2021-02-18 14:40:30
+324,274392,National Compétition de Karaté,Événement sportif d'envergure nationale,2019-05-15 14:40:30,2019-04-04 14:40:30,2019-04-29 14:40:30
+325,5436,Tournoi de Squash - Vélodrome de Paris,Tournoi ouvert à tous les niveaux,2017-03-24 14:40:30,2017-01-11 14:40:30,2017-02-09 14:40:30
+326,166264,Compétition de Triathlon au Arena Marseille,Événement sportif d'envergure nationale,2017-10-18 14:40:30,2017-06-26 14:40:30,2017-07-13 14:40:30
+327,72851,Course de Trail Professionnel de Paris,Événement sportif d'envergure nationale,2018-01-26 14:40:30,2017-11-10 14:40:30,2017-11-30 14:40:30
+328,404430,Tournoi d'Escrime Professionnel de Bordeaux,Événement sportif d'envergure nationale,2022-11-21 14:40:30,2022-09-02 14:40:30,2022-09-16 14:40:30
+329,209470,Championnat d'Aviron National de Marseille,,2018-05-30 14:40:30,2018-03-09 14:40:30,2018-03-17 14:40:30
+330,256903,Championnat de Rugby au Arena Lyon,Événement sportif organisé au Championnat de Rugby au Arena Lyon,2025-10-12 14:40:30,2025-04-28 14:40:30,2025-05-03 14:40:30
+331,215071,Championnat de Badminton au Palais des Sports Marseille,Tournoi ouvert à tous les niveaux,2018-12-11 14:40:30,2018-07-09 14:40:30,2018-07-25 14:40:30
+332,58512,Championnat de Rugby - Piscine Olympique de Paris,,2020-05-27 14:40:30,2019-11-29 14:40:30,2019-12-02 14:40:30
+333,199693,Challenge de Boxe - Parc des Sports de Marseille,Rassemblement sportif majeur,2023-07-23 14:40:30,2023-04-08 14:40:30,2023-05-07 14:40:30
+334,23706,Course Cycliste - Gymnase Municipal de Paris,Tournoi ouvert à tous les niveaux,2017-04-28 14:40:30,2017-01-27 14:40:30,2017-02-05 14:40:30
+335,264250,Compétition d'Athlétisme au Halle des Sports Toulouse,Grande compétition annuelle de compétition d'athlétisme au halle des sports toulouse,2020-05-11 14:40:30,2019-12-26 14:40:30,2020-01-14 14:40:30
+336,252404,Championnat de Badminton - Vélodrome de Lyon,Compétition régionale de haut niveau,2021-06-17 14:40:30,2021-01-01 14:40:30,2021-01-23 14:40:30
+337,48781,Course à Pied Mixte de Paris,,2019-03-30 14:40:30,2019-01-24 14:40:30,2019-01-29 14:40:30
+338,218912,Compétition d'Athlétisme au Halle des Sports Marseille,Compétition régionale de haut niveau,2020-01-11 14:40:30,2019-12-10 14:40:30,2019-12-25 14:40:30
+339,100947,Compétition de Karaté - Piscine Olympique de Paris,Événement sportif organisé au Compétition de Karaté - Piscine Olympique de Paris,2023-09-06 14:40:30,2023-04-04 14:40:30,2023-04-17 14:40:30
+340,66930,Championnat d'Aviron Jeunes de Paris,Rassemblement sportif majeur,2022-05-05 14:40:30,2022-03-29 14:40:30,2022-04-23 14:40:30
+341,204937,Tournoi de Basketball au Palais des Sports Marseille,Tournoi ouvert à tous les niveaux,2018-07-10 14:40:30,2018-01-24 14:40:30,2018-02-02 14:40:30
+342,49913,Vétérans Course Cycliste,Tournoi ouvert à tous les niveaux,2021-09-24 14:40:30,2021-07-28 14:40:30,2021-08-15 14:40:30
+343,5190,Tournoi de Squash - Vélodrome de Paris,Compétition régionale de haut niveau,2025-03-24 14:40:30,2025-02-12 14:40:30,2025-03-08 14:40:30
+344,42355,Mixte Marathon International,,2017-02-24 14:40:30,2016-11-23 14:40:30,2016-12-02 14:40:30
+345,71990,Jeunes Course Cycliste,,2025-02-28 14:40:30,2025-01-07 14:40:30,2025-01-21 14:40:30
+346,257140,Challenge de Boxe - Arena de Lyon,,2023-12-22 14:40:30,2023-08-05 14:40:30,2023-08-10 14:40:30
+347,305337,Compétition de Judo - Palais des Sports de Nice,Rassemblement sportif majeur,2016-09-01 14:40:30,2016-03-10 14:40:30,2016-03-21 14:40:30
+348,61214,Tournoi d'Escrime Vétérans de Paris,Grande compétition annuelle de tournoi d'escrime vétérans de paris,2023-11-24 14:40:30,2023-08-12 14:40:30,2023-08-21 14:40:30
+349,140681,Marathon International - Complexe Sportif de Paris,Grande compétition annuelle de marathon international - complexe sportif de paris,2024-05-31 14:40:30,2024-01-17 14:40:30,2024-02-15 14:40:30
+350,87652,Rallye Automobile - Piscine Olympique de Paris,Tournoi ouvert à tous les niveaux,2017-08-23 14:40:30,2017-05-03 14:40:30,2017-05-29 14:40:30
+351,379464,Compétition de Triathlon Professionnel de Montpellier,Événement sportif d'envergure nationale,2023-02-04 14:40:30,2022-10-29 14:40:30,2022-11-18 14:40:30
+352,117595,Tournoi de Tennis de Table au Gymnase Municipal Paris,Compétition régionale de haut niveau,2024-11-29 14:40:30,2024-10-07 14:40:30,2024-10-19 14:40:30
+353,331849,National Championnat d'Aviron,,2019-09-03 14:40:30,2019-03-09 14:40:30,2019-03-09 14:40:30
+354,25296,Challenge de Natation au Arena Paris,Rassemblement sportif majeur,2016-09-17 14:40:30,2016-04-04 14:40:30,2016-04-16 14:40:30
+355,311112,Compétition de Judo au Complexe Sportif Nice,,2019-08-16 14:40:30,2019-05-06 14:40:30,2019-05-16 14:40:30
+356,39161,Course Cycliste Mixte de Paris,,2019-11-09 14:40:30,2019-09-28 14:40:30,2019-09-29 14:40:30
+357,298174,Tournoi de Tennis - Arena de Nice,Événement sportif d'envergure nationale,2017-10-10 14:40:30,2017-05-21 14:40:30,2017-06-04 14:40:30
+358,58219,National Compétition d'Escalade,Événement sportif organisé au National Compétition d'Escalade,2019-05-22 14:40:30,2019-03-13 14:40:30,2019-04-09 14:40:30
+359,23774,Tournoi de Handball au Arena Paris,Événement sportif d'envergure nationale,2020-03-04 14:40:30,2019-12-23 14:40:30,2019-12-24 14:40:30
+360,95303,Challenge de Natation - Parc des Sports de Paris,Tournoi ouvert à tous les niveaux,2017-01-09 14:40:30,2016-11-16 14:40:30,2016-11-16 14:40:30
+361,160988,Régional Course d'Orientation,,2018-07-16 14:40:30,2018-02-04 14:40:30,2018-02-25 14:40:30
+362,68792,Compétition d'Athlétisme - Parc des Sports de Paris,Compétition régionale de haut niveau,2017-05-09 14:40:30,2016-12-22 14:40:30,2017-01-13 14:40:30
+363,132945,Course à Pied - Centre Sportif de Paris,Compétition régionale de haut niveau,2017-01-01 14:40:30,2016-11-06 14:40:30,2016-11-09 14:40:30
+364,112158,Course de Trail International de Paris,Tournoi ouvert à tous les niveaux,2024-09-04 14:40:30,2024-07-02 14:40:30,2024-07-22 14:40:30
+365,84476,Championnat de Rugby au Complexe Sportif Paris,Tournoi ouvert à tous les niveaux,2023-04-17 14:40:30,2023-02-04 14:40:30,2023-02-18 14:40:30
+366,126449,Challenge de Natation - Parc des Sports de Paris,,2023-09-14 14:40:30,2023-04-24 14:40:30,2023-05-21 14:40:30
+367,55862,Amateur Tournoi de Handball,,2017-05-20 14:40:30,2016-11-21 14:40:30,2016-12-14 14:40:30
+368,155441,National Championnat de Badminton,,2017-07-27 14:40:30,2017-04-25 14:40:30,2017-05-03 14:40:30
+369,371,Course de Trail - Arena de Paris,Événement sportif d'envergure nationale,2023-09-30 14:40:30,2023-08-25 14:40:30,2023-09-21 14:40:30
+370,397534,Marathon International au Piscine Olympique Bordeaux,Événement sportif organisé au Marathon International au Piscine Olympique Bordeaux,2020-05-24 14:40:30,2020-02-09 14:40:30,2020-02-29 14:40:30
+371,118086,Challenge de Boxe National de Paris,Rassemblement sportif majeur,2018-09-15 14:40:30,2018-04-11 14:40:30,2018-05-01 14:40:30
+372,157775,Tournoi d'Escrime - Gymnase Municipal de Paris,,2019-07-21 14:40:30,2019-05-19 14:40:30,2019-05-31 14:40:30
+373,169807,National Tournoi d'Escrime,Grande compétition annuelle de national tournoi d'escrime,2021-04-14 14:40:30,2021-02-25 14:40:30,2021-02-25 14:40:30
+374,147073,Tournoi de Handball au Centre Sportif Paris,Compétition régionale de haut niveau,2016-06-13 14:40:30,2016-04-29 14:40:30,2016-05-29 14:40:30
+375,79876,Championnat de Badminton - Vélodrome de Paris,Rassemblement sportif majeur,2023-11-15 14:40:30,2023-07-06 14:40:30,2023-07-08 14:40:30
+376,15346,Jeunes Tournoi de Tennis de Table,Compétition régionale de haut niveau,2016-12-09 14:40:30,2016-08-22 14:40:30,2016-08-24 14:40:30
+377,145671,Compétition de Karaté Professionnel de Paris,Grande compétition annuelle de compétition de karaté professionnel de paris,2022-07-31 14:40:30,2022-06-15 14:40:30,2022-06-24 14:40:30
+378,72415,Course d'Orientation Scolaire de Paris,Rassemblement sportif majeur,2016-12-20 14:40:30,2016-08-01 14:40:30,2016-08-04 14:40:30
+379,68844,Tournoi de Tennis - Stade de Paris,Compétition régionale de haut niveau,2023-06-22 14:40:30,2023-04-09 14:40:30,2023-04-12 14:40:30
+380,243704,Vétérans Tournoi de Squash,Grande compétition annuelle de vétérans tournoi de squash,2019-11-22 14:40:30,2019-06-12 14:40:30,2019-06-28 14:40:30
+381,157846,Course Cycliste au Gymnase Municipal Paris,Rassemblement sportif majeur,2024-05-30 14:40:30,2024-02-22 14:40:30,2024-03-16 14:40:30
+382,65863,Compétition de Karaté au Parc des Sports Paris,Compétition régionale de haut niveau,2021-11-16 14:40:30,2021-10-01 14:40:30,2021-10-09 14:40:30
+383,67828,Scolaire Championnat de Pétanque,Grande compétition annuelle de scolaire championnat de pétanque,2021-09-24 14:40:30,2021-05-25 14:40:30,2021-05-26 14:40:30
+384,89563,Tournoi d'Escrime National de Paris,Événement sportif organisé au Tournoi d'Escrime National de Paris,2018-11-11 14:40:30,2018-09-16 14:40:30,2018-10-14 14:40:30
+385,88249,Marathon International au Gymnase Municipal Paris,Grande compétition annuelle de marathon international au gymnase municipal paris,2025-08-19 14:40:30,2025-07-17 14:40:30,2025-07-24 14:40:30
+386,64839,Professionnel Compétition de Karaté,Grande compétition annuelle de professionnel compétition de karaté,2018-01-04 14:40:30,2017-11-26 14:40:30,2017-12-13 14:40:30
+387,27915,Championnat de Football Scolaire de Paris,Tournoi ouvert à tous les niveaux,2020-09-01 14:40:30,2020-05-13 14:40:30,2020-05-21 14:40:30
+388,92207,Rallye Automobile au Stade Paris,Événement sportif organisé au Rallye Automobile au Stade Paris,2023-07-21 14:40:30,2023-06-08 14:40:30,2023-06-13 14:40:30
+389,333331,Tournoi de Volleyball Vétérans de Nantes,Tournoi ouvert à tous les niveaux,2025-11-02 14:40:30,2025-06-06 14:40:30,2025-07-03 14:40:30
+390,148540,Vétérans Challenge de Natation,Événement sportif d'envergure nationale,2021-02-14 14:40:30,2021-01-13 14:40:30,2021-01-24 14:40:30
+391,406575,Championnat de Rugby - Piscine Olympique de Lille,Événement sportif d'envergure nationale,2022-12-26 14:40:30,2022-09-25 14:40:30,2022-10-09 14:40:30
+392,134986,Tournoi de Tennis - Stade de Paris,Tournoi ouvert à tous les niveaux,2022-02-17 14:40:30,2021-11-17 14:40:30,2021-11-21 14:40:30
+393,66000,Régional Course à Pied,Événement sportif organisé au Régional Course à Pied,2019-11-20 14:40:30,2019-10-19 14:40:30,2019-11-18 14:40:30
+394,120166,Compétition de Triathlon - Stade de Paris,Événement sportif d'envergure nationale,2018-04-21 14:40:30,2017-11-07 14:40:30,2017-11-14 14:40:30
+395,90,Universitaire Rallye Automobile,Compétition régionale de haut niveau,2019-02-21 14:40:30,2018-12-30 14:40:30,2018-12-31 14:40:30
+396,62922,Course Cycliste au Complexe Sportif Paris,Événement sportif organisé au Course Cycliste au Complexe Sportif Paris,2024-05-22 14:40:30,2024-04-01 14:40:30,2024-04-19 14:40:30
+397,94277,International Compétition de Triathlon,Rassemblement sportif majeur,2022-08-22 14:40:30,2022-02-28 14:40:30,2022-03-01 14:40:30
+398,127194,Tournoi de Handball au Gymnase Municipal Paris,Rassemblement sportif majeur,2025-07-18 14:40:30,2025-03-30 14:40:30,2025-04-28 14:40:30
+399,143581,Challenge de Natation International de Paris,Grande compétition annuelle de challenge de natation international de paris,2018-08-15 14:40:30,2018-06-27 14:40:30,2018-07-27 14:40:30
+400,101975,Course d'Orientation Amateur de Paris,Tournoi ouvert à tous les niveaux,2017-03-09 14:40:30,2016-12-27 14:40:30,2017-01-10 14:40:30
+401,96968,Tournoi de Volleyball Mixte de Paris,Événement sportif organisé au Tournoi de Volleyball Mixte de Paris,2020-01-08 14:40:30,2019-10-17 14:40:30,2019-10-31 14:40:30
+402,46866,Compétition de Karaté - Stade de Paris,,2017-10-08 14:40:30,2017-06-23 14:40:30,2017-07-19 14:40:30
+403,103773,Championnat de Football au Gymnase Municipal Paris,Tournoi ouvert à tous les niveaux,2025-08-10 14:40:30,2025-04-19 14:40:30,2025-04-23 14:40:30
+404,296065,Tournoi de Basketball au Halle des Sports Toulouse,Tournoi ouvert à tous les niveaux,2016-07-20 14:40:30,2016-04-05 14:40:30,2016-04-13 14:40:30
+405,205384,Course Cycliste - Parc des Sports de Marseille,Événement sportif organisé au Course Cycliste - Parc des Sports de Marseille,2024-05-23 14:40:30,2023-12-05 14:40:30,2023-12-12 14:40:30
+406,37215,Championnat d'Aviron - Complexe Sportif de Paris,,2016-02-19 14:40:30,2016-01-05 14:40:30,2016-01-31 14:40:30
+407,18597,National Championnat de Badminton,,2020-06-29 14:40:30,2020-02-25 14:40:30,2020-03-17 14:40:30
+408,113042,Challenge de Natation Mixte de Paris,,2016-11-04 14:40:30,2016-09-30 14:40:30,2016-10-02 14:40:30
+409,138808,Marathon International - Stade de Paris,Tournoi ouvert à tous les niveaux,2025-04-21 14:40:30,2024-12-28 14:40:30,2024-12-31 14:40:30
+410,73509,Tournoi de Tennis - Halle des Sports de Paris,Rassemblement sportif majeur,2020-11-10 14:40:30,2020-07-02 14:40:30,2020-07-17 14:40:30
+411,220120,Compétition d'Escalade Mixte de Marseille,Tournoi ouvert à tous les niveaux,2018-05-30 14:40:30,2018-03-14 14:40:30,2018-03-22 14:40:30
+412,175852,Tournoi de Volleyball au Halle des Sports Marseille,Événement sportif organisé au Tournoi de Volleyball au Halle des Sports Marseille,2022-12-12 14:40:30,2022-09-11 14:40:30,2022-10-01 14:40:30
+413,147548,Compétition d'Athlétisme - Arena de Paris,Événement sportif d'envergure nationale,2016-12-26 14:40:30,2016-09-16 14:40:30,2016-09-28 14:40:30
+414,49265,Tournoi de Tennis au Gymnase Municipal Paris,Tournoi ouvert à tous les niveaux,2024-12-30 14:40:30,2024-07-14 14:40:30,2024-08-08 14:40:30
+415,43671,Tournoi d'Escrime au Gymnase Municipal Paris,Rassemblement sportif majeur,2024-10-06 14:40:30,2024-05-05 14:40:30,2024-05-16 14:40:30
+416,5357,Jeunes Challenge de Boxe,Événement sportif organisé au Jeunes Challenge de Boxe,2018-01-07 14:40:30,2017-12-02 14:40:30,2017-12-12 14:40:30
+417,53696,Championnat de Rugby - Arena de Paris,Événement sportif organisé au Championnat de Rugby - Arena de Paris,2025-01-26 14:40:30,2024-08-29 14:40:30,2024-09-14 14:40:30
+418,104200,Compétition de Judo au Arena Paris,Rassemblement sportif majeur,2018-10-13 14:40:30,2018-07-14 14:40:30,2018-07-22 14:40:30
+419,245121,Scolaire Rallye Automobile,Tournoi ouvert à tous les niveaux,2025-05-31 14:40:30,2025-03-18 14:40:30,2025-03-23 14:40:30
+420,15972,Tournoi d'Escrime - Complexe Sportif de Paris,,2016-04-26 14:40:30,2015-12-28 14:40:30,2016-01-27 14:40:30
+421,90890,Tournoi de Volleyball International de Paris,Événement sportif organisé au Tournoi de Volleyball International de Paris,2025-02-02 14:40:30,2024-08-30 14:40:30,2024-09-16 14:40:30
+422,138111,Rallye Automobile au Vélodrome Paris,Événement sportif organisé au Rallye Automobile au Vélodrome Paris,2016-08-19 14:40:30,2016-05-22 14:40:30,2016-06-10 14:40:30
+423,42641,Amateur Compétition d'Athlétisme,Événement sportif organisé au Amateur Compétition d'Athlétisme,2019-09-21 14:40:30,2019-07-02 14:40:30,2019-07-27 14:40:30
+424,152715,International Compétition de Karaté,Événement sportif organisé au International Compétition de Karaté,2016-03-31 14:40:30,2016-01-24 14:40:30,2016-02-11 14:40:30
+425,108420,Amateur Course Cycliste,Grande compétition annuelle de amateur course cycliste,2020-03-11 14:40:30,2019-11-01 14:40:30,2019-11-19 14:40:30
+426,53508,Championnat de Badminton - Gymnase Municipal de Paris,Événement sportif d'envergure nationale,2017-10-08 14:40:30,2017-05-20 14:40:30,2017-06-14 14:40:30
+427,143877,Course de Trail au Complexe Sportif Paris,Rassemblement sportif majeur,2022-04-21 14:40:30,2021-12-21 14:40:30,2021-12-28 14:40:30
+428,1217,Tournoi de Basketball au Palais des Sports Paris,,2024-03-26 14:40:30,2023-12-12 14:40:30,2023-12-16 14:40:30
+429,175738,Tournoi de Basketball - Gymnase Municipal de Marseille,Événement sportif d'envergure nationale,2024-08-24 14:40:30,2024-03-02 14:40:30,2024-03-03 14:40:30
+430,188292,Championnat de Pétanque International de Marseille,Grande compétition annuelle de championnat de pétanque international de marseille,2022-05-06 14:40:30,2022-03-11 14:40:30,2022-04-09 14:40:30
+431,23376,Championnat de Badminton au Gymnase Municipal Paris,Événement sportif organisé au Championnat de Badminton au Gymnase Municipal Paris,2019-11-22 14:40:30,2019-08-03 14:40:30,2019-08-08 14:40:30
+432,93237,National Compétition de Karaté,,2018-12-23 14:40:30,2018-10-01 14:40:30,2018-10-08 14:40:30
+433,38573,Tournoi de Handball - Halle des Sports de Paris,Compétition régionale de haut niveau,2017-03-19 14:40:30,2017-02-17 14:40:30,2017-02-18 14:40:30
+434,359398,Compétition de Judo au Parc des Sports Strasbourg,,2021-07-13 14:40:30,2021-03-09 14:40:30,2021-03-20 14:40:30
+435,113591,Championnat d'Aviron au Complexe Sportif Paris,Événement sportif organisé au Championnat d'Aviron au Complexe Sportif Paris,2025-09-10 14:40:30,2025-03-17 14:40:30,2025-04-06 14:40:30
+436,11014,Tournoi de Tennis Amateur de Paris,Événement sportif organisé au Tournoi de Tennis Amateur de Paris,2024-12-18 14:40:30,2024-11-10 14:40:30,2024-11-19 14:40:30
+437,54651,Tournoi de Handball International de Paris,Rassemblement sportif majeur,2019-11-02 14:40:30,2019-08-21 14:40:30,2019-09-18 14:40:30
+438,243969,Tournoi de Tennis au Complexe Sportif Lyon,Grande compétition annuelle de tournoi de tennis au complexe sportif lyon,2022-08-31 14:40:30,2022-03-31 14:40:30,2022-04-22 14:40:30
+439,100105,Jeunes Challenge de Natation,Événement sportif d'envergure nationale,2016-08-08 14:40:30,2016-06-14 14:40:30,2016-06-24 14:40:30
+440,208931,Course Cycliste au Halle des Sports Marseille,Grande compétition annuelle de course cycliste au halle des sports marseille,2019-02-28 14:40:30,2018-11-14 14:40:30,2018-11-21 14:40:30
+441,146404,Compétition de Triathlon au Centre Sportif Paris,Grande compétition annuelle de compétition de triathlon au centre sportif paris,2016-08-12 14:40:30,2016-04-12 14:40:30,2016-04-12 14:40:30
+442,437447,Tournoi de Basketball au Parc des Sports Rennes,,2017-02-02 14:40:30,2016-12-28 14:40:30,2017-01-03 14:40:30
+443,130586,Mixte Tournoi de Handball,Événement sportif organisé au Mixte Tournoi de Handball,2017-04-19 14:40:30,2017-01-01 14:40:30,2017-01-26 14:40:30
+444,346361,Amateur Tournoi de Basketball,Grande compétition annuelle de amateur tournoi de basketball,2023-03-15 14:40:30,2022-09-27 14:40:30,2022-10-09 14:40:30
+445,285368,Course d'Orientation - Centre Sportif de Toulouse,,2020-12-31 14:40:30,2020-11-20 14:40:30,2020-11-28 14:40:30
+446,134358,National Compétition d'Athlétisme,,2019-01-06 14:40:30,2018-07-16 14:40:30,2018-07-17 14:40:30
+447,157741,Tournoi d'Escrime Jeunes de Paris,,2022-01-27 14:40:30,2021-09-14 14:40:30,2021-10-08 14:40:30
+448,110701,Compétition de Judo - Palais des Sports de Paris,Compétition régionale de haut niveau,2020-05-05 14:40:30,2019-11-24 14:40:30,2019-12-07 14:40:30
+449,229357,Compétition de Karaté - Vélodrome de Lyon,Événement sportif organisé au Compétition de Karaté - Vélodrome de Lyon,2019-05-10 14:40:30,2019-03-21 14:40:30,2019-04-02 14:40:30
+450,120152,Tournoi de Basketball - Arena de Paris,Événement sportif organisé au Tournoi de Basketball - Arena de Paris,2024-06-29 14:40:30,2024-02-06 14:40:30,2024-02-11 14:40:30
+451,291709,Jeunes Compétition de Triathlon,Rassemblement sportif majeur,2020-10-01 14:40:30,2020-08-12 14:40:30,2020-09-02 14:40:30
+452,170929,Universitaire Tournoi de Handball,,2024-02-27 14:40:30,2024-01-11 14:40:30,2024-01-13 14:40:30
+453,104099,Tournoi de Tennis au Palais des Sports Paris,Événement sportif organisé au Tournoi de Tennis au Palais des Sports Paris,2019-02-06 14:40:30,2018-08-27 14:40:30,2018-09-10 14:40:30
+454,56843,Tournoi d'Escrime Scolaire de Paris,Événement sportif organisé au Tournoi d'Escrime Scolaire de Paris,2020-08-25 14:40:30,2020-06-18 14:40:30,2020-06-22 14:40:30
+455,54221,Tournoi de Volleyball au Gymnase Municipal Paris,Rassemblement sportif majeur,2022-04-24 14:40:30,2022-02-28 14:40:30,2022-03-25 14:40:30
+456,139843,Challenge de Boxe - Stade de Paris,Rassemblement sportif majeur,2020-04-18 14:40:30,2019-11-16 14:40:30,2019-12-04 14:40:30
+457,185507,Challenge de Boxe au Stade Marseille,Rassemblement sportif majeur,2020-07-09 14:40:30,2020-05-04 14:40:30,2020-05-23 14:40:30
+458,114324,Mixte Tournoi de Squash,Événement sportif organisé au Mixte Tournoi de Squash,2023-09-30 14:40:30,2023-07-02 14:40:30,2023-07-03 14:40:30
+459,137450,Compétition d'Escalade - Parc des Sports de Paris,Grande compétition annuelle de compétition d'escalade - parc des sports de paris,2019-10-16 14:40:30,2019-07-01 14:40:30,2019-07-10 14:40:30
+460,60221,Course à Pied Vétérans de Paris,Grande compétition annuelle de course à pied vétérans de paris,2019-05-16 14:40:30,2018-12-24 14:40:30,2019-01-17 14:40:30
+461,16993,Mixte Compétition de Triathlon,,2020-12-15 14:40:30,2020-09-22 14:40:30,2020-10-21 14:40:30
+462,62662,Tournoi de Basketball au Centre Sportif Paris,Grande compétition annuelle de tournoi de basketball au centre sportif paris,2016-08-19 14:40:30,2016-03-11 14:40:30,2016-04-05 14:40:30
+463,59589,Tournoi d'Escrime - Complexe Sportif de Paris,,2024-10-02 14:40:30,2024-04-21 14:40:30,2024-05-19 14:40:30
+464,70114,Mixte Marathon International,Événement sportif d'envergure nationale,2018-04-03 14:40:30,2018-02-18 14:40:30,2018-02-25 14:40:30
+465,118459,Course d'Orientation Universitaire de Paris,Événement sportif d'envergure nationale,2018-03-27 14:40:30,2017-12-17 14:40:30,2017-12-28 14:40:30
+466,30347,Championnat de Pétanque - Piscine Olympique de Paris,,2016-05-06 14:40:30,2016-02-05 14:40:30,2016-02-16 14:40:30
+467,50717,Amateur Championnat de Rugby,Événement sportif d'envergure nationale,2021-04-28 14:40:30,2020-10-30 14:40:30,2020-11-16 14:40:30
+468,152187,Tournoi de Tennis - Stade de Paris,,2025-04-27 14:40:30,2025-03-05 14:40:30,2025-03-14 14:40:30
+469,154922,Jeunes Rallye Automobile,Événement sportif d'envergure nationale,2022-06-02 14:40:30,2022-03-10 14:40:30,2022-04-06 14:40:30
+470,14086,Championnat d'Aviron - Piscine Olympique de Paris,Événement sportif d'envergure nationale,2020-08-05 14:40:30,2020-02-26 14:40:30,2020-02-26 14:40:30
+471,89389,Scolaire Compétition d'Escalade,Compétition régionale de haut niveau,2017-12-11 14:40:30,2017-11-09 14:40:30,2017-11-16 14:40:30
+472,118998,Jeunes Compétition d'Escalade,Événement sportif d'envergure nationale,2020-03-23 14:40:30,2019-11-25 14:40:30,2019-12-09 14:40:30
+473,91182,Régional Course Cycliste,Tournoi ouvert à tous les niveaux,2021-11-03 14:40:30,2021-06-25 14:40:30,2021-07-13 14:40:30
+474,45360,Course de Trail National de Paris,Rassemblement sportif majeur,2023-04-06 14:40:30,2022-12-25 14:40:30,2023-01-03 14:40:30
+475,92140,Compétition d'Escalade - Centre Sportif de Paris,Grande compétition annuelle de compétition d'escalade - centre sportif de paris,2019-02-07 14:40:30,2018-10-17 14:40:30,2018-11-13 14:40:30
+476,408805,Scolaire Marathon International,Événement sportif d'envergure nationale,2021-10-20 14:40:30,2021-07-21 14:40:30,2021-08-18 14:40:30
+477,128092,Championnat de Pétanque au Centre Sportif Paris,Compétition régionale de haut niveau,2017-07-28 14:40:30,2017-06-22 14:40:30,2017-07-12 14:40:30
+478,152532,Scolaire Compétition de Karaté,Événement sportif d'envergure nationale,2020-05-10 14:40:30,2020-04-01 14:40:30,2020-04-19 14:40:30
+479,250873,Mixte Compétition de Judo,,2024-01-01 14:40:30,2023-10-07 14:40:30,2023-10-28 14:40:30
+480,185363,Tournoi de Volleyball - Piscine Olympique de Marseille,Événement sportif d'envergure nationale,2017-11-28 14:40:30,2017-06-09 14:40:30,2017-06-14 14:40:30
+481,83420,Tournoi de Basketball - Parc des Sports de Paris,Rassemblement sportif majeur,2018-11-26 14:40:30,2018-06-06 14:40:30,2018-06-30 14:40:30
+482,1294,Amateur Course à Pied,Compétition régionale de haut niveau,2018-07-04 14:40:30,2018-03-18 14:40:30,2018-03-31 14:40:30
+483,77143,Marathon International Scolaire de Paris,Compétition régionale de haut niveau,2025-07-19 14:40:30,2025-05-20 14:40:30,2025-06-04 14:40:30
+484,177390,Professionnel Course Cycliste,Compétition régionale de haut niveau,2025-12-23 14:40:30,2025-10-05 14:40:30,2025-10-21 14:40:30
+485,248172,Challenge de Natation au Halle des Sports Lyon,Grande compétition annuelle de challenge de natation au halle des sports lyon,2016-08-10 14:40:30,2016-06-03 14:40:30,2016-06-07 14:40:30
+486,351938,Championnat de Football - Gymnase Municipal de Strasbourg,Rassemblement sportif majeur,2019-07-20 14:40:30,2019-05-05 14:40:30,2019-05-29 14:40:30
+487,91894,Course d'Orientation - Arena de Paris,Tournoi ouvert à tous les niveaux,2023-02-12 14:40:30,2022-12-30 14:40:30,2022-12-30 14:40:30
+488,173469,Championnat d'Aviron au Complexe Sportif Marseille,Événement sportif d'envergure nationale,2024-07-29 14:40:30,2024-05-20 14:40:30,2024-06-04 14:40:30
+489,119770,Championnat de Pétanque Professionnel de Paris,Tournoi ouvert à tous les niveaux,2020-10-25 14:40:30,2020-06-14 14:40:30,2020-06-27 14:40:30
+490,132297,Tournoi de Tennis - Vélodrome de Paris,Événement sportif organisé au Tournoi de Tennis - Vélodrome de Paris,2018-03-28 14:40:30,2017-11-23 14:40:30,2017-12-23 14:40:30
+491,48366,Jeunes Tournoi de Squash,Rassemblement sportif majeur,2023-08-04 14:40:30,2023-07-04 14:40:30,2023-07-24 14:40:30
+492,48121,Tournoi de Tennis de Table - Centre Sportif de Paris,Événement sportif organisé au Tournoi de Tennis de Table - Centre Sportif de Paris,2017-06-13 14:40:30,2017-04-18 14:40:30,2017-04-30 14:40:30
+493,95582,Mixte Tournoi de Volleyball,Compétition régionale de haut niveau,2025-03-29 14:40:30,2025-02-16 14:40:30,2025-02-25 14:40:30
+494,6366,Championnat de Pétanque - Arena de Paris,,2025-12-17 14:40:30,2025-10-14 14:40:30,2025-10-24 14:40:30
+495,73715,Rallye Automobile International de Paris,Tournoi ouvert à tous les niveaux,2020-07-11 14:40:30,2020-06-07 14:40:30,2020-06-14 14:40:30
+496,148940,Régional Championnat de Rugby,,2021-08-29 14:40:30,2021-06-17 14:40:30,2021-06-20 14:40:30
+497,88669,Marathon International National de Paris,Événement sportif d'envergure nationale,2021-12-31 14:40:30,2021-11-19 14:40:30,2021-12-08 14:40:30
+498,36196,National Tournoi de Handball,Compétition régionale de haut niveau,2017-04-20 14:40:30,2016-12-05 14:40:30,2016-12-19 14:40:30
+499,102502,Compétition de Karaté au Centre Sportif Paris,Événement sportif d'envergure nationale,2023-11-15 14:40:30,2023-09-07 14:40:30,2023-09-13 14:40:30
+500,27990,Challenge de Boxe au Complexe Sportif Paris,,2017-02-18 14:40:30,2016-09-08 14:40:30,2016-09-16 14:40:30
