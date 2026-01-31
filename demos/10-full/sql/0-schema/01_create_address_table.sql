@@ -28,6 +28,7 @@ COMMENT ON COLUMN address.city IS 'City/Municipality';
 COMMENT ON COLUMN address.gps_coordinates IS 'GPS coordinates (Point type)';
 
 GRANT SELECT ON TABLE address TO dev;
+GRANT SELECT ON SEQUENCE address_id_seq TO dev;
 
 SECURITY LABEL FOR anon ON COLUMN address.city
   IS 'MASKED WITH FUNCTION anon.dummy_city_name_locale($$fr_FR$$)';
@@ -43,7 +44,7 @@ RETURNS POINT AS $$
 BEGIN
   RETURN POINT(anon.dummy_longitude()::FLOAT, anon.dummy_latitude()::FLOAT);
 END;
-$$ LANGUAGE plpgsql IMMUTABLE;
+$$ LANGUAGE plpgsql STABLE;
 
 SECURITY LABEL FOR anon ON COLUMN address.gps_coordinates
   IS 'MASKED WITH FUNCTION anon.dummy_gps_point()';

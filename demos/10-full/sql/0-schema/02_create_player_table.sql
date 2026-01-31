@@ -35,6 +35,7 @@ COMMENT ON COLUMN player.email IS 'Email address - PII';
 COMMENT ON COLUMN player.phone IS 'Phone number - PII';
 
 GRANT SELECT ON TABLE player TO dev;
+GRANT SELECT ON SEQUENCE player_id_seq TO dev;
 
 SECURITY LABEL FOR anon ON COLUMN player.last_name
   IS 'MASKED WITH FUNCTION anon.pseudo_last_name(player.last_name)';
