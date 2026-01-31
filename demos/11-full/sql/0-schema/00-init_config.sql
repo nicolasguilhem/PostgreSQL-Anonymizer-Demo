@@ -1,12 +1,13 @@
--- Création du rôle dev en lecture seule
+-- Création des rôles dev et stats en lecture seule
 CREATE ROLE dev LOGIN PASSWORD 'dev';
+CREATE ROLE stat LOGIN PASSWORD 'stat';
 
 -- Application de l'anonymisation sur le role
 SECURITY LABEL FOR anon ON ROLE dev IS 'MASKED';
 
 -- Activation du masquage dynamique sur la base
-ALTER DATABASE postgres
-  SET anon.transparent_dynamic_masking TO true;
+ALTER DATABASE postgres SET anon.transparent_dynamic_masking TO true;
+ALTER DATABASE postgres SET anon.privacy_by_default TO true;
 
 -- Schéma pour les fonctions de masquage personnalisées
 CREATE SCHEMA custom_masks;

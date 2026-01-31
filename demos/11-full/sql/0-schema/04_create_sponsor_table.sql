@@ -28,7 +28,7 @@ COMMENT ON COLUMN sponsor.siren IS 'SIREN number (French business ID) - 9 digits
 COMMENT ON COLUMN sponsor.logo IS 'Company logo stored as binary data (BLOB)';
 
 GRANT SELECT ON TABLE sponsor TO dev;
-GRANT SELECT ON SEQUENCE sponsor_id_seq TO dev;
+GRANT USAGE, SELECT ON SEQUENCE sponsor_id_seq TO dev;
 GRANT SELECT ON TABLE anon.siret TO dev;
 
 SECURITY LABEL FOR anon ON COLUMN sponsor.name

@@ -24,4 +24,4 @@ COMMENT ON COLUMN event.description IS 'Detailed event description';
 COMMENT ON COLUMN event.date IS 'Event date and time';
 
 GRANT SELECT ON TABLE event TO dev;
-GRANT SELECT ON SEQUENCE event_id_seq TO dev;
+GRANT USAGE, SELECT ON SEQUENCE event_id_seq TO dev;

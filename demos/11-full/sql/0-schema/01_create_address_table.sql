@@ -28,7 +28,7 @@ COMMENT ON COLUMN address.city IS 'City/Municipality';
 COMMENT ON COLUMN address.gps_coordinates IS 'GPS coordinates (Point type)';
 
 GRANT SELECT ON TABLE address TO dev;
-GRANT SELECT ON SEQUENCE address_id_seq TO dev;
+GRANT USAGE, SELECT ON SEQUENCE address_id_seq TO dev;
 
 SECURITY LABEL FOR anon ON COLUMN address.city
   IS 'MASKED WITH FUNCTION anon.dummy_city_name_locale($$fr_FR$$)';
