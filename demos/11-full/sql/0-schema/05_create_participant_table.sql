@@ -29,6 +29,18 @@ COMMENT ON COLUMN participant.documents IS 'Supporting documents/proofs stored a
 
 GRANT SELECT ON TABLE participant TO dev;
 
+SECURITY LABEL FOR anon ON COLUMN participant.player_id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN participant.event_id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN participant.created_at
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN participant.updated_at
+IS 'NOT MASKED';
+
 CREATE OR REPLACE FUNCTION custom_masks.participant_documents(j JSONB)
 RETURNS JSONB
 IMMUTABLE

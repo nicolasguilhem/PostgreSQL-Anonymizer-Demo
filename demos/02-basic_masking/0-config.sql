@@ -6,8 +6,5 @@ GRANT USAGE, SELECT ON ALL SEQUENCES IN SCHEMA public TO dev;
 -- Application de l'anonymisation sur le role
 SECURITY LABEL FOR anon ON ROLE dev IS 'MASKED';
 
--- Activation du privacy by default
-ALTER DATABASE postgres SET anon.privacy_by_default TO true;
-
 -- Activation du masquage dynamique sur la base
 ALTER DATABASE postgres SET anon.transparent_dynamic_masking TO true;

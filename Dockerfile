@@ -29,3 +29,4 @@ COPY ./sql/1-datas/ /docker-entrypoint-initdb.d/
 
 RUN mkdir -p /demos
 COPY ./demos /demos
+RUN chmod -R 755 /demos/**/*.sh

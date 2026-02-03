@@ -37,6 +37,18 @@ COMMENT ON COLUMN player.phone IS 'Phone number - PII';
 GRANT SELECT ON TABLE player TO dev;
 GRANT USAGE, SELECT ON SEQUENCE player_id_seq TO dev;
 
+SECURITY LABEL FOR anon ON COLUMN player.id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN player.address_id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN player.created_at
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN player.updated_at
+IS 'NOT MASKED';
+
 SECURITY LABEL FOR anon ON COLUMN player.last_name
   IS 'MASKED WITH FUNCTION anon.pseudo_last_name(player.last_name)';
 

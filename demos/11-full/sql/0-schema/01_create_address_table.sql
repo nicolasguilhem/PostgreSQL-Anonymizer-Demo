@@ -30,6 +30,18 @@ COMMENT ON COLUMN address.gps_coordinates IS 'GPS coordinates (Point type)';
 GRANT SELECT ON TABLE address TO dev;
 GRANT USAGE, SELECT ON SEQUENCE address_id_seq TO dev;
 
+SECURITY LABEL FOR anon ON COLUMN address.id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN address.street_number
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN address.created_at
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN address.updated_at
+IS 'NOT MASKED';
+
 SECURITY LABEL FOR anon ON COLUMN address.city
   IS 'MASKED WITH FUNCTION anon.dummy_city_name_locale($$fr_FR$$)';
 

@@ -25,3 +25,24 @@ COMMENT ON COLUMN event.date IS 'Event date and time';
 
 GRANT SELECT ON TABLE event TO dev;
 GRANT USAGE, SELECT ON SEQUENCE event_id_seq TO dev;
+
+SECURITY LABEL FOR anon ON COLUMN event.id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN event.address_id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN event.name
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN event.description
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN event.date
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN event.created_at
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN event.updated_at
+IS 'NOT MASKED';

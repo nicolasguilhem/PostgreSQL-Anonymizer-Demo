@@ -28,6 +28,18 @@ COMMENT ON COLUMN financing.amount IS 'Amount of financial contribution (in euro
 
 GRANT SELECT ON TABLE financing TO dev;
 
+SECURITY LABEL FOR anon ON COLUMN financing.event_id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN financing.sponsor_id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN financing.created_at
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN financing.updated_at
+IS 'NOT MASKED';
+
 SECURITY LABEL FOR anon ON FUNCTION pg_catalog.round(v numeric, s int) IS 'TRUSTED';
 
 SECURITY LABEL FOR anon ON COLUMN financing.amount

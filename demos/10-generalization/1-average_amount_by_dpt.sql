@@ -1,8 +1,8 @@
 SELECT
   ROUND(AVG(f.amount), 2) AS average_amount,
+  COUNT(e.id) AS event_count,
   SUBSTRING(a.postal_code FROM 1 FOR 2) AS department,
-  EXTRACT(DECADE FROM e.date) * 10 AS event_year,
-  COUNT(e.id) AS event_count
+  EXTRACT(DECADE FROM e.date) * 10 AS event_year
 FROM event e
 JOIN address a ON a.id = e.address_id
 JOIN financing f ON f.event_id = e.id

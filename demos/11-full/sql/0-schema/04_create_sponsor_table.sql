@@ -31,6 +31,18 @@ GRANT SELECT ON TABLE sponsor TO dev;
 GRANT USAGE, SELECT ON SEQUENCE sponsor_id_seq TO dev;
 GRANT SELECT ON TABLE anon.siret TO dev;
 
+SECURITY LABEL FOR anon ON COLUMN sponsor.id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN sponsor.address_id
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN sponsor.created_at
+IS 'NOT MASKED';
+
+SECURITY LABEL FOR anon ON COLUMN sponsor.updated_at
+IS 'NOT MASKED';
+
 SECURITY LABEL FOR anon ON COLUMN sponsor.name
     IS 'MASKED WITH FUNCTION anon.dummy_company_name_locale($$fr_FR$$)';
 

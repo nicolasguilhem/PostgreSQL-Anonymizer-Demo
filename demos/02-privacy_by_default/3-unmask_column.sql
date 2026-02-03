@@ -1,2 +1,0 @@
-SECURITY LABEL FOR anon ON COLUMN player.address_id
-IS 'NOT MASKED';
