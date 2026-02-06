@@ -6,10 +6,10 @@ echo "Exporting database structure and data..."
 START_TIME=$(date +%s)
 
 pg_dump \
+  --user="postgres" \
   --no-password \
   --verbose \
   postgres > "$DUMP_FILE"
-
 
 
 

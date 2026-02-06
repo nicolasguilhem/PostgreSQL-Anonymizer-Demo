@@ -26,3 +26,7 @@ COPY ./container/init_anon.sh /docker-entrypoint-initdb.d/00_init_anon.sh
 COPY ./sql/0-schema/ /docker-entrypoint-initdb.d/
 
 COPY ./sql/1-datas/ /docker-entrypoint-initdb.d/
+
+RUN mkdir -p /demos
+COPY ./scripts /demos
+RUN chmod -R +x /demos/*.sh
